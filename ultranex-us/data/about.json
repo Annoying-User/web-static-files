@@ -74,7 +74,7 @@
   "dtfAdvantages": {
     "title": "DTF Advantages",
     "image": {
-      "src": "/images/about/dtf-advantages.jpg",
+      "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/about/dtf-advantages.jpg",
       "alt": "DTF Advantages"
     }
   },
@@ -83,22 +83,22 @@
     "subtitle": "State-of-the-art manufacturing and quality control",
     "images": [
       {
-        "src": "/images/about/infrastructure.jpg",
+        "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/about/infrastructure.jpg",
         "alt": "Infrastructure",
         "label": "Infrastructure"
       },
       {
-        "src": "/images/about/lab.jpg",
+        "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/about/lab.jpg",
         "alt": "Quality Control Lab",
         "label": "Quality Control Lab"
       },
       {
-        "src": "/images/about/machine-area.jpg",
+        "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/about/machine-area.jpg",
         "alt": "Machine Area",
         "label": "Machine Area"
       },
       {
-        "src": "/images/about/photo-machine.jpg",
+        "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/about/photo-machine.jpg",
         "alt": "Production Equipment",
         "label": "Production Equipment"
       }

@@ -53,70 +53,70 @@
         "number": "01",
         "title": "Quick Ink Drying",
         "description": "No ink leakage even at 6 pass printing without heater on roll-to-roll inkjet printer & 90 nozzle setting on L1800 inkjet printers. Ultranex coating layer provides optimum ink absorption for rapid drying.",
-        "image": "/images/features/quick-ink-drying.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/quick-ink-drying.png",
         "alt": "DTF inkjet films ink drying comparison"
       },
       {
         "number": "02",
         "title": "Good Adhesion",
         "description": "Printed ink forms temporary strong adhesion to the film after sufficient heating. Critical for fine text that might otherwise peel off.",
-        "image": "/images/features/good-adhesion.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/good-adhesion.png",
         "alt": "Effective ink adhesion of DTF films"
       },
       {
         "number": "03",
         "title": "High Temperature Stability",
         "description": "Film remains dimensionally stable during thermo powder drying. PET film maintains stability up to 180\u00b0C for 10 minutes without losing lay-flat properties.",
-        "image": "/images/features/high-temperature.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/high-temperature.png",
         "alt": "High temperature stability of Ultranex DTF sheets"
       },
       {
         "number": "04",
         "title": "Colour Vibrancy",
         "description": "Coating opens inkjet inks to optimum levels of colour brightness. Vibrancy is influenced by coating thickness, pH value, and additives used.",
-        "image": "/images/features/colour-vibrancy.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/colour-vibrancy.png",
         "alt": "Colour vibrancy of Ultranex DTF films"
       },
       {
         "number": "05",
         "title": "Smooth Warm & Cold Peel",
         "description": "Labels transfer at 125\u00b0C to 170\u00b0C for 6\u201320 seconds with easy hot, warm, and cold peel options for maximum flexibility.",
-        "image": "/images/features/smooth-peel.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/smooth-peel.png",
         "alt": "Smooth peel process of DTF sheets"
       },
       {
         "number": "06",
         "title": "Satin Matte Finish",
         "description": "Even coating with minimal streaks creates a satin matte finish on transferred images \u2014 NO Repressing Required, saving time and increasing productivity.",
-        "image": "/images/features/satin-matte.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/satin-matte.png",
         "alt": "Ultranex DTF satin matte transfer finish"
       },
       {
         "number": "07",
         "title": "Soft Feel",
         "description": "Two-layer technology \u2014 release layer plus low-hardness ink receptive layer \u2014 delivers a soft, smooth feel to every transfer.",
-        "image": "/images/features/soft-feel.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/soft-feel.png",
         "alt": "Soft feel DTF film layer technology"
       },
       {
         "number": "08",
         "title": "Excellent Wash Fastness",
         "description": "The ink receptive layer acts as a scratch resistance layer, enhancing wash durability. Transfers withstand 60 to 100 washes with no cracking, fading, or peeling.",
-        "image": "/images/features/wash-fastness.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/wash-fastness.png",
         "alt": "DTF wash fastness durability"
       },
       {
         "number": "09",
         "title": "Long Shelf Life",
         "description": "Standard shelf life of 1 year. Printed labels on Ultranex DTF film transfer successfully even after storage for extended periods up to 1 year.",
-        "image": "/images/features/shelf-life.jpg",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/shelf-life.jpg",
         "alt": "Long shelf life of Ultranex DTF film"
       },
       {
         "number": "10",
         "title": "Trouble-Free Powder Application",
         "description": "Both the coating and back side have antistatic properties, preventing powder sticking issues caused by static generation in the film.",
-        "image": "/images/features/powder-application.png",
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/powder-application.png",
         "alt": "Trouble-free DTF powder application"
       }
     ]
@@ -194,7 +194,7 @@
     "headline": "Film Composition",
     "subheadline": "Discover the advanced multi-layer structure that makes our DTF films exceptional",
     "image": {
-      "src": "/images/composition.jpg",
+      "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/composition.jpg",
       "alt": "DTF Film Composition"
     },
     "layers": [
@@ -306,13 +306,13 @@
         "title": "ISO 9001:2015",
         "subtitle": "Quality Management System",
         "description": "The ISO 9001:2015 certification demonstrates our robust quality management system and commitment to meeting customer expectations. It validates our ability to consistently deliver products that meet both regulatory and company-specific requirements.",
-        "image": "/images/iso-certificate.jpg"
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/iso-certificate.jpg"
       },
       {
         "title": "OEKO-TEX STANDARD 100",
         "subtitle": "Textile Safety Certification",
         "description": "OEKO-TEX\u00ae STANDARD 100 is the gold standard for textile safety certification. This certification confirms that our products have successfully passed rigorous safety tests and are free from harmful substances and chemicals, complying with global safety requirements.",
-        "image": "/images/oekotex-certificate.jpg"
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/oekotex-certificate.jpg"
       }
     ]
   },
