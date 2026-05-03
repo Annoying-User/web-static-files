@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "eyebrow": "About Ultranex",
+    "headline": "Your Global Partner for DTF and Heat Transfer Release Films",
+    "tagline": "Ultranex epitomizes our steadfast dedication to quality, adherence to SOPs, and a culture of continuous innovation."
+  },
+  "story": {
+    "title": "Our Journey",
+    "paragraphs": [
+      "From humble beginnings as a small startup nestled in the vibrant city of Mumbai, Vama Prints and Technologies Private Limited has embarked on a remarkable journey that has propelled them onto the global stage.",
+      "Since our inception in 2005, we've been a name synonymous with excellence in Label Printing and ink. In the year 2020, we took a momentous step forward, expanding our horizons to embrace product manufacturing, and thus, Ultranex Transfer Release Film was born."
+    ],
+    "timeline": [
+      {
+        "year": "2005",
+        "label": "Company Founded",
+        "desc": "Vama Prints & Technologies established in Mumbai, India"
+      },
+      {
+        "year": "2020",
+        "label": "Ultranex Launched",
+        "desc": "Expanded into product manufacturing with Ultranex DTF Film"
+      },
+      {
+        "year": "Now",
+        "label": "Global Reach",
+        "desc": "Supplying premium DTF films across the USA and 15+ countries"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "2005",
+      "label": "Founded"
+    },
+    {
+      "value": "15+",
+      "label": "Countries"
+    },
+    {
+      "value": "1000+",
+      "label": "Businesses"
+    },
+    {
+      "value": "ISO",
+      "label": "9001:2015 Certified"
+    }
+  ],
+  "whyChoose": {
+    "title": "Why Choose Ultranex?",
+    "items": [
+      {
+        "title": "Premium Quality",
+        "description": "Industry-leading DTF films engineered for superior performance across all fabric types and printing setups."
+      },
+      {
+        "title": "Innovation Driven",
+        "description": "Cutting-edge water-bourne coating technology backed by continuous in-house research and development."
+      },
+      {
+        "title": "Customer First",
+        "description": "Dedicated support and reliable service across America, backed by our team in Anaheim, CA."
+      }
+    ]
+  },
+  "infrastructure": {
+    "title": "Infrastructure",
+    "body": "Our commitment to quality is unwavering. We have invested in cutting-edge technology, stringent quality control measures, and a dedicated team of experts to ensure that every Ultranex product you receive meets the highest industry standards. When you choose Ultranex, you're choosing a product that's not just reliable but also a testament to the perfection that is achievable through the convergence of technology and dedication.",
+    "certifications": [
+      "ISO 9001:2015",
+      "OEKO-TEX Standard 100"
+    ]
+  },
+  "dtfAdvantages": {
+    "title": "DTF Advantages",
+    "image": {
+      "src": "/images/about/dtf-advantages.jpg",
+      "alt": "DTF Advantages"
+    }
+  },
+  "facility": {
+    "title": "Our Facility",
+    "subtitle": "State-of-the-art manufacturing and quality control",
+    "images": [
+      {
+        "src": "/images/about/infrastructure.jpg",
+        "alt": "Infrastructure",
+        "label": "Infrastructure"
+      },
+      {
+        "src": "/images/about/lab.jpg",
+        "alt": "Quality Control Lab",
+        "label": "Quality Control Lab"
+      },
+      {
+        "src": "/images/about/machine-area.jpg",
+        "alt": "Machine Area",
+        "label": "Machine Area"
+      },
+      {
+        "src": "/images/about/photo-machine.jpg",
+        "alt": "Production Equipment",
+        "label": "Production Equipment"
+      }
+    ]
+  },
+  "team": {
+    "title": "Meet the Team",
+    "subtitle": "The people behind Ultranex DTF",
+    "members": [
+      {
+        "name": "Bhavesh Shah",
+        "role": "Managing Director",
+        "image": "https://ultranexdtf.us/wp-content/uploads/elementor/thumbs/Bhavesh-CEO-1-qyatwem7g1trdoz7h66d7mkfcijmjijcn7d5485wts.jpg"
+      },
+      {
+        "name": "Pratima Shah",
+        "role": "Chief Executive Officer",
+        "image": "https://ultranexdtf.us/wp-content/uploads/elementor/thumbs/prathima-CEO-1-2-qyatwbsovjpwev3axmyhi5a1kcxiwf85mteooea3cg.jpg"
+      }
+    ]
+  }
+}

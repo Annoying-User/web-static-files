@@ -1,0 +1,22 @@
+{
+  "name": "Ultranex DTF",
+  "email": "info@ultranexdtf.us",
+  "phone": "(714) 812-7191",
+  "address": {
+    "line1": "2200 E Winston Road Suite 101",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806",
+    "country": "United States"
+  },
+  "social": {
+    "facebook": "https://facebook.com",
+    "twitter": "https://twitter.com",
+    "linkedin": "https://linkedin.com"
+  },
+  "footer": {
+    "tagline": "Premium DTF film solutions for professional textile printing with vibrant colors and exceptional durability.",
+    "copyright": "Ultranex DTF. All rights reserved.",
+    "madeIn": "Made in India with ♥"
+  }
+}

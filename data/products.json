@@ -1,0 +1,639 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "DTF Film F86SM1/DTF A3+ Size 500 Sheets",
+      "slug": "dtf-film-f86sm1-a3-size-500-sheets",
+      "category": "sheets",
+      "grade": "DTF A3+ Size",
+      "type": "Single Side Matte",
+      "packing": "500 Sheets",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-A3-500",
+      "price": {
+        "regular": 295.0,
+        "sale": null,
+        "currency": "USD",
+        "perUnit": 0.59,
+        "perUnitLabel": "per sheet"
+      },
+      "dimensions": {
+        "width": "11.8 inches (300mm)",
+        "length": "18.1 inches (460mm)",
+        "displaySize": "18.11\" X 11.81\""
+      },
+      "shortDescription": "Premium A3+ Size DTF Transfer Film Sheets - Perfect solution for high-resolution, full-color heat transfers with exceptional print quality and professional-grade durability.",
+      "longDescription": "Discover the perfect solution for high-resolution, full-color heat transfers with our A3 DTF Film Roll (F86SM1) \u2013 a top-tier choice for professionals and print businesses. Featuring 500 A3+ size DTF transfer film sheets, this roll delivers exceptional print quality, eco-friendly performance, and professional-grade durability, setting a new standard for the DTF printing industry.\n\nWhether you're a startup custom apparel brand or a high-volume print shop, our A3 DTF heat transfer film is designed to produce vibrant, detailed, and wash-resistant transfers on a wide variety of fabrics, including cotton, polyester, blends, and more. Each sheet is crafted to deliver high ink absorption, zero static, and easy hot or cold peel capability\u2014so you can streamline your production workflow and reduce waste.",
+      "features": [
+        "ISO 9001:2015 & Oeko-Tex Standard 100 Certified",
+        "500 A3 DTF Film Sheets for high-volume printing",
+        "Anti-static, non-slip surface for smooth feeding",
+        "Hot & cold peel versatility",
+        "Quick ink drying time",
+        "Compatible with all major DTF printers and inks",
+        "Eco-friendly, water-borne coating",
+        "Made in USA",
+        "Enhanced detail and clarity",
+        "Superior ink adhesion",
+        "Durable and wash-resistant transfers"
+      ],
+      "specifications": {
+        "sheetCount": 500,
+        "coating": "Eco-friendly, water-borne coating",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "Works with all standard DTF inks and printers",
+        "origin": "USA",
+        "peelType": "Hot & Cold Peel"
+      },
+      "certifications": [
+        "ISO 9001:2015",
+        "Oeko-Tex Standard 100"
+      ],
+      "perfectFor": [
+        "Custom apparel manufacturers",
+        "Print-on-demand businesses",
+        "Personalized gift creators",
+        "T-shirt printing shops",
+        "Promotional merchandise companies",
+        "Home-based DTF printing startups"
+      ],
+      "howToUse": [
+        "Print your design in mirror image using DTF ink on the coated side of the film",
+        "Apply adhesive powder evenly to the wet ink and shake off the excess",
+        "Cure the powder using a heat press or curing oven until it melts smoothly",
+        "Transfer the design onto your fabric using heat and pressure",
+        "Peel the film (hot or cold) and enjoy a crisp, vivid transfer"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 2,
+      "name": "DTF Film F86SM1/DTF Single Side Matte",
+      "slug": "dtf-film-f86sm1-single-side-matte",
+      "category": "rolls",
+      "grade": "F86SM1/DTF",
+      "type": "Single Side Matte",
+      "packing": "1 Roll",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-SSM-1R",
+      "price": {
+        "regular": 119.0,
+        "sale": 55.0,
+        "currency": "USD",
+        "perUnit": 55.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "23.6 inches",
+        "length": "328 feet",
+        "displaySize": "23.6\" X 328'"
+      },
+      "shortDescription": "Professional DTF film roll with superior ink absorption, anti-static coating, and hot & cold peel capability for versatile printing applications.",
+      "longDescription": "The F86SM1 Single Side Matte DTF Film is engineered for discerning professionals and hobbyists seeking unparalleled transfer quality and operational efficiency. This premium DTF film provides a robust foundation for creating vibrant, durable, and sophisticated prints across a diverse range of textiles.\n\nThe film distinguishes itself through its advanced coating technology. The single-side matte finish is not merely an aesthetic choice; it's a functional feature designed to minimize glare and enhance the visual clarity of intricate designs. This matte surface provides a superior canvas for ink adhesion, ensuring that pigments are captured with exceptional precision and vibrancy.",
+      "features": [
+        "Enhanced detail and clarity with matte finish",
+        "Superior ink adhesion with specialized coating",
+        "Durable and wash-resistant transfers",
+        "Consistent quality in every sheet",
+        "Easy to use with smooth printing process",
+        "Versatile fabric compatibility",
+        "Professional matte finish",
+        "Reduced static for better feeding",
+        "Sharp lines and smooth gradients",
+        "Compatible with cotton, polyester, blends, canvas, and leather"
+      ],
+      "specifications": {
+        "coating": "Single-side matte, antistatic reverse",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All standard DTF printing systems",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel"
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "Custom apparel production",
+        "Promotional items",
+        "Home d\u00e9cor printing",
+        "Intricate graphics and photographic images",
+        "High-volume printing operations"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 3,
+      "name": "DTF Film F86SM1/DTF Single Side Matte \u2013 Pack of 4",
+      "slug": "dtf-film-f86sm1-single-side-matte-pack-4",
+      "category": "rolls",
+      "grade": "F86SM1/DTF",
+      "type": "Single Side Matte Pack of 4",
+      "packing": "4 Rolls Package",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-SSM-4R",
+      "price": {
+        "regular": 476.0,
+        "sale": 220.0,
+        "currency": "USD",
+        "perUnit": 55.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "23.6 inches",
+        "length": "328 feet",
+        "displaySize": "23.6\" X 328'"
+      },
+      "shortDescription": "Value pack of 4 rolls for cost-effective DTF printing with professional matte finish and consistent quality across multiple projects.",
+      "longDescription": "This high-quality DTF (Direct to Film) transfer film pack of 4 is designed for professional and DIY printing, delivering vibrant, durable, and detailed transfers onto a wide range of fabrics. The pack provides ample supply for multiple projects while offering a cost-effective solution for frequent printing.",
+      "features": [
+        "Single-side matte finish for professional results",
+        "Consistent quality across all rolls",
+        "High ink adhesion with specialized coating",
+        "Versatile application on various fabrics",
+        "Durable, wash-resistant transfers",
+        "Easy to use with hot and cold peel options",
+        "Eco-friendly water-borne coatings",
+        "Cost-effective bulk packaging",
+        "Minimizes ink bleeding",
+        "Compatible with all DTF printers"
+      ],
+      "specifications": {
+        "coating": "Single-side matte, antistatic reverse",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 4
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "Custom apparel manufacturers",
+        "Promotional item creators",
+        "Frequent printing projects",
+        "Small to medium production runs"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 4,
+      "name": "DTF Film F86SM1/DTF Single Side Matte \u2013 Pack of 8",
+      "slug": "dtf-film-f86sm1-single-side-matte-pack-8",
+      "category": "rolls",
+      "grade": "F86SM1/DTF",
+      "type": "Single Side Matte Pack of 8",
+      "packing": "8 Rolls Package",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-SSM-8R",
+      "price": {
+        "regular": 1592.0,
+        "sale": 984.0,
+        "currency": "USD",
+        "perUnit": 123.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "31.5 inches",
+        "length": "328 feet",
+        "displaySize": "31.5\" X 328'"
+      },
+      "shortDescription": "High-volume pack of 8 larger rolls engineered for creators who demand both volume and precision in DTF printing operations.",
+      "longDescription": "The DTF Film F86SM1/DTF Single Side Matte, now offered in a robust pack of 8, is engineered for creators who demand both volume and precision in their DTF printing. This pack size isn't merely about quantity; it's a strategic offering designed to streamline production and elevate the standard of your custom prints.\n\nThe pack of 8 caters to those who need a consistent and ample supply of high-quality film. Whether you're fulfilling large orders, running a busy production line, or engaging in extensive creative projects, this bulk offering ensures minimal downtime and maximized output.",
+      "features": [
+        "High-volume production ready with 8 rolls",
+        "Signature single-side matte finish",
+        "Enhanced print clarity and detail",
+        "Reliability and consistency in every sheet",
+        "Optimal ink absorption for vibrant colors",
+        "Excellent DTF powder adhesion",
+        "Anti-static properties for smooth feeding",
+        "Larger 31.5\" width for bigger designs",
+        "Cost-effective for commercial operations",
+        "Minimizes downtime with bulk supply"
+      ],
+      "specifications": {
+        "coating": "Single-side matte, antistatic reverse",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 8
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "High-volume production facilities",
+        "Commercial printing operations",
+        "Extensive creative projects",
+        "Cost-effective bulk operations",
+        "Large order fulfillment"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": 10
+    },
+    {
+      "id": 5,
+      "name": "DTF Film F86SM1/DTF Single Side Matte \u2013 Pack of 12",
+      "slug": "dtf-film-f86sm1-single-side-matte-pack-12",
+      "category": "rolls",
+      "grade": "F86SM1/DTF",
+      "type": "Single Side Matte Pack of 12",
+      "packing": "12 Rolls Package",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-SSM-12R",
+      "price": {
+        "regular": 952.0,
+        "sale": 659.4,
+        "currency": "USD",
+        "perUnit": 55.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "23.6 inches",
+        "length": "328 feet",
+        "displaySize": "23.6\" X 328'"
+      },
+      "shortDescription": "Maximum value pack of 12 rolls for high-volume DTF printing operations with consistent quality and enhanced production capacity.",
+      "longDescription": "Elevate your DTF printing capabilities with the F86SM1 Single Side Matte DTF Film, now available in a value-packed set of 12. Designed for those who demand consistent, high-quality transfers, this film offers a reliable foundation for your custom apparel and textile projects.\n\nThe pack of 12 is ideal for high-volume printing, ensuring you have a steady supply for ongoing projects or large orders. It reduces downtime associated with reordering, allowing for a streamlined workflow.",
+      "features": [
+        "Enhanced production capacity with 12 rolls",
+        "Precision matte finish for premium aesthetic",
+        "Optimized ink reception for vibrant prints",
+        "Consistent and dependable performance",
+        "Versatility across all fabric types",
+        "Designed for operational efficiency",
+        "Superior ink absorption",
+        "Strong DTF powder adhesion",
+        "Wash-resistant transfers",
+        "Cost-effective bulk solution"
+      ],
+      "specifications": {
+        "coating": "Single-side matte, antistatic reverse",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 12
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "High-volume printing operations",
+        "Large order production",
+        "Ongoing textile projects",
+        "Commercial DTF businesses",
+        "Cost-conscious bulk buyers"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 6,
+      "name": "DTF Film F86SM2/DTF Premium Both Side Matte",
+      "slug": "dtf-film-f86sm2-premium-both-side-matte",
+      "category": "premium",
+      "grade": "F86SM2/DTF Premium",
+      "type": "Both Side Matte",
+      "packing": "1 Roll",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM2-BSM-1R",
+      "price": {
+        "regular": 129.0,
+        "sale": 65.0,
+        "currency": "USD",
+        "perUnit": 65.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "23.6 inches",
+        "length": "328 feet",
+        "displaySize": "23.6\" X 328'"
+      },
+      "shortDescription": "Premium both side matte DTF film for exceptional results. Features structured matte antistatic coating on both sides for superior performance.",
+      "longDescription": "The F86SM2/DTF Premium Both Side Matte film represents a significant advancement in Direct to Film (DTF) printing technology, offering unparalleled quality and performance. This film is meticulously engineered with a premium double-sided matte finish, setting it apart from conventional DTF films and providing distinct advantages for professional and discerning users.\n\nThis unique double-sided matte feature provides a consistent matte texture on both sides of the film. It enhances the visual clarity of printed designs by minimizing glare and reflections, resulting in a sophisticated, high-end finish.",
+      "features": [
+        "Double-sided matte finish for consistent texture",
+        "Enhanced ink adhesion and color vibrancy",
+        "Superior powder adhesion for uniform coating",
+        "Improved printer feed and handling",
+        "Minimizes static and slippage",
+        "Versatility and wide compatibility",
+        "Professional-grade results",
+        "Increased stability - reduces warping under heat",
+        "Luxurious matte aesthetic",
+        "Compatible with cotton, polyester, and blends"
+      ],
+      "specifications": {
+        "coating": "Premium double-sided matte",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers and ink systems",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel"
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "High-end custom apparel",
+        "Promotional merchandise",
+        "Fashion and retail applications",
+        "Detailed graphic designs",
+        "Premium matte finish projects"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 7,
+      "name": "DTF Film F86SM2/DTF Premium Both Side Matte \u2013 Pack of 4",
+      "slug": "dtf-film-f86sm2-premium-both-side-matte-pack-4",
+      "category": "premium",
+      "grade": "F86SM2/DTF Premium",
+      "type": "Both Side Matte Pack of 4",
+      "packing": "4 Rolls Package",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM2-BSM-4R",
+      "price": {
+        "regular": 516.0,
+        "sale": 53.44,
+        "currency": "USD",
+        "perUnit": 13.36,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "23.6 inches",
+        "length": "328 feet",
+        "displaySize": "23.6\" X 328'"
+      },
+      "shortDescription": "Premium pack of 4 with double-sided matte finish, perfect balance of quality and quantity for professional and advanced hobbyist DTF printers.",
+      "longDescription": "The F86SM2/DTF Premium Both Side Matte film is now available in a convenient pack of 4, offering a perfect balance of quality and quantity for both professional and advanced hobbyist DTF printers. This film is designed to elevate your transfer printing with its unique double-sided matte finish, delivering a level of sophistication and detail that surpasses standard DTF films.\n\nThe pack of 4 is ideal for users who prioritize quality and want to experiment with the unique benefits of double-sided matte film. It provides enough film for multiple projects, allowing you to fine-tune your settings and achieve optimal results.",
+      "features": [
+        "Premium matte finish on both sides",
+        "Enhanced detail and color accuracy",
+        "Improved powder adhesion and durability",
+        "Reliable printer feed",
+        "Ideal pack size for focused projects",
+        "Consistent quality in each sheet",
+        "Professional results",
+        "Perfect for testing and prototyping",
+        "Reduces glare for exceptional clarity",
+        "Grippier surface minimizes static"
+      ],
+      "specifications": {
+        "coating": "Premium double-sided matte",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 4
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "Testing and prototyping",
+        "Small production runs",
+        "Custom apparel",
+        "Promotional items",
+        "Home d\u00e9cor",
+        "Fashion accessories"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 8,
+      "name": "DTF Film F86SM2/DTF Premium Both Side Matte \u2013 Pack of 12",
+      "slug": "dtf-film-f86sm2-premium-both-side-matte-pack-12",
+      "category": "premium",
+      "grade": "F86SM2/DTF Premium",
+      "type": "Both Side Matte Pack of 12",
+      "packing": "12 Rolls Package",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM2-BSM-12R",
+      "price": {
+        "regular": null,
+        "sale": 279.96,
+        "currency": "USD",
+        "perUnit": 23.33,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "23.6 inches",
+        "length": "328 feet",
+        "displaySize": "23.6\" X 328'"
+      },
+      "shortDescription": "Professional's choice for unmatched quality and efficiency. Pack of 12 premium double-sided matte film rolls for high-volume production.",
+      "longDescription": "For DTF printing professionals and high-volume creators, consistency, quality, and efficiency are paramount. The DTF Film: F86SM2/DTF Premium Both Side Matte, in this robust pack of 12, is designed to meet and exceed these demands, providing a superior printing experience and exceptional results.\n\nThis pack of 12 is specifically tailored for those who require a reliable and ample supply of premium DTF film. It minimizes downtime associated with frequent reordering, allowing you to maintain a seamless workflow and meet demanding production schedules.",
+      "features": [
+        "Optimized for high-volume production",
+        "Superior print clarity with double-sided matte",
+        "Enhanced handling and printer performance",
+        "Uniform powder adhesion",
+        "Vibrant color reproduction",
+        "Exceptional durability",
+        "Versatile fabric compatibility",
+        "Cost-effective bulk solution",
+        "Consistent professional-grade results",
+        "Minimizes static and improves handling"
+      ],
+      "specifications": {
+        "coating": "Premium double-sided matte",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 12
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "High-volume production operations",
+        "Commercial printing businesses",
+        "Serious hobbyists",
+        "Demanding production schedules",
+        "Professional DTF operations"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": null
+    },
+    {
+      "id": 9,
+      "name": "DTF Film F86SM1/DTF Single Side Matte",
+      "slug": "dtf-film-f86sm1-single-side-matte-31-5",
+      "category": "rolls",
+      "grade": "F86SM1/DTF",
+      "type": "Single Side Matte",
+      "packing": "1 Roll",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-SSM-1R-315",
+      "price": {
+        "regular": 199.0,
+        "sale": 139.0,
+        "currency": "USD",
+        "perUnit": 139.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "31.5 inches",
+        "length": "328 feet",
+        "displaySize": "31.5\" X 328'"
+      },
+      "shortDescription": "Wider 31.5\" single-side matte DTF film roll for larger designs \u2014 superior ink adhesion, anti-static coating, and hot & cold peel capability.",
+      "longDescription": "The F86SM1 Single Side Matte DTF Film in the wider 31.5\" format is engineered for professionals who need extra width for larger print areas without sacrificing quality. This premium DTF film provides a robust foundation for creating vibrant, durable, and sophisticated prints across a diverse range of textiles.\n\nThe wider roll reduces seams on larger designs and improves throughput on wide-format DTF printers. The single-side matte finish minimizes glare and enhances the visual clarity of intricate designs while the specialized coating ensures ink is captured with exceptional precision and vibrancy.",
+      "features": [
+        "Wider 31.5\" width for larger designs",
+        "Enhanced detail and clarity with matte finish",
+        "Superior ink adhesion with specialized coating",
+        "Durable and wash-resistant transfers",
+        "Consistent quality in every sheet",
+        "Anti-static properties for smooth printer feeding",
+        "Hot & cold peel versatility",
+        "Compatible with cotton, polyester, blends, canvas, and leather"
+      ],
+      "specifications": {
+        "coating": "Single-side matte, antistatic reverse",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 1
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "Large-format custom apparel",
+        "Wide graphic designs",
+        "Commercial printing operations",
+        "Prototyping and sampling",
+        "Personalized merchandise"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": 10
+    },
+    {
+      "id": 10,
+      "name": "DTF Film F86SM1/DTF Single Side Matte \u2013 Pack of 4",
+      "slug": "dtf-film-f86sm1-single-side-matte-31-5-pack-4",
+      "category": "rolls",
+      "grade": "F86SM1/DTF",
+      "type": "Single Side Matte Pack of 4",
+      "packing": "4 Rolls Package",
+      "brand": "Ultranex DTF",
+      "sku": "F86SM1-SSM-4R-315",
+      "price": {
+        "regular": 796.0,
+        "sale": 524.0,
+        "currency": "USD",
+        "perUnit": 131.0,
+        "perUnitLabel": "per roll"
+      },
+      "dimensions": {
+        "width": "31.5 inches",
+        "length": "328 feet",
+        "displaySize": "31.5\" X 328'"
+      },
+      "shortDescription": "Pack of 4 wider 31.5\" single-side matte DTF film rolls \u2014 ideal for prototyping, sampling, and small-batch production with larger print areas.",
+      "longDescription": "The F86SM1 Single Side Matte DTF Film in the wider 31.5\" format, offered in a pack of 4, is the ideal choice for studios and print shops that need a reliable bulk supply for large-format printing. This pack balances volume with flexibility, keeping your workflow moving without overcommitting to a single roll at a time.\n\nEach roll delivers the same professional-grade single-side matte finish, optimized ink absorption, and anti-static performance that defines the F86SM1 line \u2014 now in a wider format that reduces seams on oversized designs and boosts output on wide-format DTF printers.",
+      "features": [
+        "Pack of 4 wider 31.5\" rolls",
+        "Matte surface reduces glare for enhanced clarity",
+        "Specialized coating optimized for ink absorption",
+        "Excellent DTF powder adhesion",
+        "Anti-static properties minimize paper jams",
+        "Soft, velvety tactile texture on transfers",
+        "Color-accurate prints with sharp definition",
+        "Hot & cold peel capability"
+      ],
+      "specifications": {
+        "coating": "Single-side matte, antistatic reverse",
+        "application": "Heat transfer printing on textiles",
+        "compatibility": "All DTF printers",
+        "origin": "India",
+        "peelType": "Hot & Cold Peel",
+        "packSize": 4
+      },
+      "certifications": [
+        "ISO 9001:2015"
+      ],
+      "perfectFor": [
+        "Prototyping and sampling",
+        "Small-batch large-format production",
+        "Personalized gifts and specialty fabric experiments",
+        "Studios needing flexible bulk supply",
+        "Commercial DTF operations"
+      ],
+      "imagesUrls": [
+        "https://sparkztech.github.io/Assets/public/logo.png"
+      ],
+      "brochureUrl": "https://sparkztech.github.io/Assets/us/Brochure/Ultranex_Brochure_DTF-1.pdf",
+      "inStock": true,
+      "stockQuantity": 10
+    }
+  ],
+  "metadata": {
+    "totalProducts": 8,
+    "categories": [
+      {
+        "id": "sheets",
+        "name": "Film Sheets",
+        "description": "Pre-cut DTF film sheets for easy printing"
+      },
+      {
+        "id": "rolls",
+        "name": "Film Rolls",
+        "description": "DTF film rolls for continuous printing"
+      },
+      {
+        "id": "premium",
+        "name": "Premium Series",
+        "description": "Premium double-sided matte DTF films"
+      }
+    ],
+    "lastUpdated": "2025-12-07"
+  }
+}

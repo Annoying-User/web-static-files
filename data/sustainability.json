@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sustainability | Ultranex DTF",
+    "description": "Ultranex is committed to eco-friendly manufacturing through water-based coatings, rigorous quality control, employee well-being, and responsible energy management."
+  },
+  "hero": {
+    "eyebrow": "Our Commitment",
+    "headline": "Sustainability",
+    "tagline": "With an unwavering commitment to innovation, we have delved deep into the realms of research and development to build a cleaner, more responsible manufacturing process."
+  },
+  "pillars": [
+    {
+      "id": "water-coatings",
+      "icon": "droplets",
+      "title": "Water Based Coatings",
+      "body": "We developed eco-friendly water-based coating technology as a responsible alternative to traditional solvent-based coatings. Conventional coatings release harmful chemicals that pose a significant threat to the delicate ecological balance. Our water-based approach prioritizes environmental responsibility while delivering the same high performance. Choosing Ultranex means not only choosing quality and efficiency but also contributing to a cleaner and healthier planet."
+    },
+    {
+      "id": "no-rework",
+      "icon": "shield-check",
+      "title": "No Rework Policy",
+      "body": "Ultranex holds ISO 9001:2015 certification and implements rigorous quality control at every stage. Our no-rework policy reflects our confidence in product quality — we get it right the first time.",
+      "points": [
+        "Incoming material checks at every production run",
+        "Comprehensive quality assurance plans and SOPs",
+        "In-house laboratory testing of all production lots",
+        "Assessment of printing processes and wash stability",
+        "Full traceability — every product traced back to its raw material origins via unique lot numbers"
+      ]
+    },
+    {
+      "id": "people",
+      "icon": "users",
+      "title": "Better Facilities for People",
+      "body": "Our team members are at the heart of everything we do. We maintain world-class facilities that provide safe, comfortable, and inspiring work environments. High hygiene and health and safety standards are non-negotiable. Founder Bhavesh Shah believes that precision and excellence begin with a team that feels cared for — we are a family that fosters the growth of every individual."
+    },
+    {
+      "id": "energy",
+      "icon": "leaf",
+      "title": "Energy Management",
+      "body": "We are committed to environmentally responsible manufacturing across every dimension of our operations.",
+      "points": [
+        "Continuous quality improvements and right-first-time policies to reduce waste",
+        "Active monitoring of utilities consumption for ongoing optimisation",
+        "Regeneration of waste and scrap material as production input"
+      ]
+    }
+  ],
+  "certifications": [
+    { "title": "ISO 9001:2015", "desc": "Quality management system certified" },
+    { "title": "OEKO-TEX Standard 100", "desc": "Free from harmful substances and chemicals" },
+    { "title": "Water Bourne Coatings", "desc": "Formaldehyde-free, eco-friendly manufacturing" }
+  ],
+  "cta": {
+    "headline": "Built for Quality. Built for the Planet.",
+    "body": "Learn more about our products or get in touch with our team in Anaheim, CA.",
+    "button": { "label": "Contact Us", "href": "/contact" }
+  }
+}
