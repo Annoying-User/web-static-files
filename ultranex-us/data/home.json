@@ -390,5 +390,52 @@
     "successMessage": "\ud83c\udf89 Successfully subscribed! Check your inbox for confirmation.",
     "errorMessage": "Please enter a valid email address.",
     "visible": true
+  },
+  "aboutSection": {
+    "visible": true,
+    "badge": "About Ultranex",
+    "headline": "Your Global Partner for DTF and Heat Transfer Release Films",
+    "subheadline": "Ultranex epitomizes our steadfast dedication to quality, adherence to SOPs, and a culture of continuous innovation",
+    "journey": {
+      "title": "Our Journey",
+      "paragraphs": [
+        "From humble beginnings as a small startup nestled in the vibrant city of Mumbai, Vama Prints and Technologies Private Limited has embarked on a remarkable journey that has propelled them onto the global stage. Since our inception in 2005, we've been a name synonymous with excellence in Label Printing and ink.",
+        "In the year 2020, we took a momentous step forward, expanding our horizons to embrace product manufacturing, and thus, Ultranex Transfer Release Film was born."
+      ],
+      "milestones": [
+        {
+          "year": "2005",
+          "label": "Established"
+        },
+        {
+          "year": "2020",
+          "label": "Ultranex Born"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Why Choose Ultranex?",
+      "items": [
+        {
+          "icon": "target",
+          "title": "Premium Quality",
+          "desc": "Industry-leading DTF films engineered for superior performance"
+        },
+        {
+          "icon": "rocket",
+          "title": "Innovation Driven",
+          "desc": "Cutting-edge technology backed by continuous research"
+        },
+        {
+          "icon": "handshake",
+          "title": "Customer First",
+          "desc": "Dedicated support and reliable service across America"
+        }
+      ]
+    },
+    "infrastructure": {
+      "title": "Infrastructure",
+      "body": "Our commitment to quality is unwavering. We have invested in cutting-edge technology, stringent quality control measures, and a dedicated team of experts to ensure that every Ultranex product you receive meets the highest industry standards. When you choose Ultranex, you're choosing a product that's not just reliable but also a testament to the perfection that is achievable through the convergence of technology and dedication."
+    }
   }
 }
