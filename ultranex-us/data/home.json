@@ -42,7 +42,8 @@
         "label": "Businesses",
         "prefix": "Trusted by"
       }
-    }
+    },
+    "visible": true
   },
   "features": {
     "badge": "Why Choose Ultranex",
@@ -54,72 +55,83 @@
         "title": "Quick Ink Drying",
         "description": "No ink leakage even at 6 pass printing without heater on roll-to-roll inkjet printer & 90 nozzle setting on L1800 inkjet printers. Ultranex coating layer provides optimum ink absorption for rapid drying.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/quick-ink-drying.png",
-        "alt": "DTF inkjet films ink drying comparison"
+        "alt": "DTF inkjet films ink drying comparison",
+        "visible": true
       },
       {
         "number": "02",
         "title": "Good Adhesion",
         "description": "Printed ink forms temporary strong adhesion to the film after sufficient heating. Critical for fine text that might otherwise peel off.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/good-adhesion.png",
-        "alt": "Effective ink adhesion of DTF films"
+        "alt": "Effective ink adhesion of DTF films",
+        "visible": true
       },
       {
         "number": "03",
         "title": "High Temperature Stability",
         "description": "Film remains dimensionally stable during thermo powder drying. PET film maintains stability up to 180\u00b0C for 10 minutes without losing lay-flat properties.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/high-temperature.png",
-        "alt": "High temperature stability of Ultranex DTF sheets"
+        "alt": "High temperature stability of Ultranex DTF sheets",
+        "visible": true
       },
       {
         "number": "04",
         "title": "Colour Vibrancy",
         "description": "Coating opens inkjet inks to optimum levels of colour brightness. Vibrancy is influenced by coating thickness, pH value, and additives used.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/colour-vibrancy.png",
-        "alt": "Colour vibrancy of Ultranex DTF films"
+        "alt": "Colour vibrancy of Ultranex DTF films",
+        "visible": true
       },
       {
         "number": "05",
         "title": "Smooth Warm & Cold Peel",
         "description": "Labels transfer at 125\u00b0C to 170\u00b0C for 6\u201320 seconds with easy hot, warm, and cold peel options for maximum flexibility.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/smooth-peel.png",
-        "alt": "Smooth peel process of DTF sheets"
+        "alt": "Smooth peel process of DTF sheets",
+        "visible": true
       },
       {
         "number": "06",
         "title": "Satin Matte Finish",
         "description": "Even coating with minimal streaks creates a satin matte finish on transferred images \u2014 NO Repressing Required, saving time and increasing productivity.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/satin-matte.png",
-        "alt": "Ultranex DTF satin matte transfer finish"
+        "alt": "Ultranex DTF satin matte transfer finish",
+        "visible": true
       },
       {
         "number": "07",
         "title": "Soft Feel",
         "description": "Two-layer technology \u2014 release layer plus low-hardness ink receptive layer \u2014 delivers a soft, smooth feel to every transfer.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/soft-feel.png",
-        "alt": "Soft feel DTF film layer technology"
+        "alt": "Soft feel DTF film layer technology",
+        "visible": true
       },
       {
         "number": "08",
         "title": "Excellent Wash Fastness",
         "description": "The ink receptive layer acts as a scratch resistance layer, enhancing wash durability. Transfers withstand 60 to 100 washes with no cracking, fading, or peeling.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/wash-fastness.png",
-        "alt": "DTF wash fastness durability"
+        "alt": "DTF wash fastness durability",
+        "visible": true
       },
       {
         "number": "09",
         "title": "Long Shelf Life",
         "description": "Standard shelf life of 1 year. Printed labels on Ultranex DTF film transfer successfully even after storage for extended periods up to 1 year.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/shelf-life.jpg",
-        "alt": "Long shelf life of Ultranex DTF film"
+        "alt": "Long shelf life of Ultranex DTF film",
+        "visible": true
       },
       {
         "number": "10",
         "title": "Trouble-Free Powder Application",
         "description": "Both the coating and back side have antistatic properties, preventing powder sticking issues caused by static generation in the film.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/features/powder-application.png",
-        "alt": "Trouble-free DTF powder application"
+        "alt": "Trouble-free DTF powder application",
+        "visible": true
       }
-    ]
+    ],
+    "visible": true
   },
   "shelfLife": {
     "title": "Long Shelf Life of Film & Labels",
@@ -131,7 +143,8 @@
       "value": "1+",
       "label": "Year Shelf Life",
       "sublabel": "Reliable performance even after extended storage"
-    }
+    },
+    "visible": true
   },
   "powderApplication": {
     "title": "Trouble-Free Powder Application",
@@ -143,7 +156,8 @@
       "icon": "",
       "title": "Antistatic Properties",
       "subtitle": "Both coating and back side have antistatic properties for smooth powder application"
-    }
+    },
+    "visible": true
   },
   "techSpecs": {
     "badge": "Technical Excellence",
@@ -187,7 +201,8 @@
         "label": "Release force",
         "value": "Medium to Low (Hot & Cold Peel)"
       }
-    ]
+    ],
+    "visible": true
   },
   "composition": {
     "badge": "Material Quality",
@@ -226,7 +241,8 @@
     "whyItMatters": {
       "title": "Why It Matters",
       "body": "Each layer works in harmony to ensure vibrant colors, exceptional durability, and reliable performance across all fabric types."
-    }
+    },
+    "visible": true
   },
   "printingGuidelines": {
     "badge": "Best Practices",
@@ -257,7 +273,8 @@
         "title": "Troubleshooting",
         "content": "If oily stains appear on transferred labels, gently wipe the surface with a damp cloth. Re-dry remaining labels for 1-3 minutes at 160\u00b0C before transfer to remove excess moisture and prevent similar issues."
       }
-    ]
+    ],
+    "visible": true
   },
   "testimonials": {
     "badge": "Testimonials",
@@ -268,33 +285,39 @@
         "name": "Niko Rossi",
         "role": "Print Shop Owner",
         "text": "I'm thrilled with the results from the sample of Ultranex DTF Films. The colors pop, and the transfers are incredibly smooth. It's rare to find such high-quality products.",
-        "rating": 5
+        "rating": 5,
+        "visible": true
       },
       {
         "name": "Ele Kow",
         "role": "Textile Designer",
         "text": "Ultranex DTF Films' sample exceeded my expectations. The prints were sharp, and the films worked flawlessly with our equipment. I'm impressed and ready to make a purchase!",
-        "rating": 5
+        "rating": 5,
+        "visible": true
       },
       {
         "name": "Lina Ngu",
         "role": "Business Owner",
         "text": "Using the sample of Ultranex DTF Films was a game-changer for our printing business. The quality is exceptional, and the transfers are seamless. Definitely sticking with this product.",
-        "rating": 5
+        "rating": 5,
+        "visible": true
       },
       {
         "name": "Kris Kow",
         "role": "Production Manager",
         "text": "The sample of Ultranex DTF Films proved its worth instantly. The clarity of the prints and the durability of the transfers are unmatched. I'm a happy, converted customer.",
-        "rating": 5
+        "rating": 5,
+        "visible": true
       },
       {
         "name": "Rey Petro",
         "role": "Creative Director",
         "text": "I was skeptical at first, but after trying the sample of Ultranex DTF Films, I'm amazed! The prints are vibrant, and the films are easy to work with. Impressive quality.",
-        "rating": 5
+        "rating": 5,
+        "visible": true
       }
-    ]
+    ],
+    "visible": true
   },
   "certifications": {
     "badge": "Certified Excellence",
@@ -314,36 +337,44 @@
         "description": "OEKO-TEX\u00ae STANDARD 100 is the gold standard for textile safety certification. This certification confirms that our products have successfully passed rigorous safety tests and are free from harmful substances and chemicals, complying with global safety requirements.",
         "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/oekotex-certificate.jpg"
       }
-    ]
+    ],
+    "visible": true
   },
   "faq": {
     "headline": "Frequently Asked Questions",
     "items": [
       {
         "question": "What is DTF printing?",
-        "answer": "DTF printing means printing designs onto a special film and transferring them onto fabric using heat. It allows for crisp, full-color prints with precise details. You can use DTF printing for a variety of fabrics like cotton, polyester, twill, denim, canvas, and more."
+        "answer": "DTF printing means printing designs onto a special film and transferring them onto fabric using heat. It allows for crisp, full-color prints with precise details. You can use DTF printing for a variety of fabrics like cotton, polyester, twill, denim, canvas, and more.",
+        "visible": true
       },
       {
         "question": "What are the applications for Ultranex DTF transfer film roll?",
-        "answer": "Ultranex DTF transfer release film roll is normally used to print heat transfer labels for garments, such as neck, tagless, and litho transfer labels. It has a wide range of grades for different heat transfer applications like screen printing, textile transfers, silicone transfers, and hybrid transfers."
+        "answer": "Ultranex DTF transfer release film roll is normally used to print heat transfer labels for garments, such as neck, tagless, and litho transfer labels. It has a wide range of grades for different heat transfer applications like screen printing, textile transfers, silicone transfers, and hybrid transfers.",
+        "visible": true
       },
       {
         "question": "What ink is used for the DTF printing process?",
-        "answer": "The inks used in DTF printing are sublimation, pigment, and solvent-based. These types of ink have pigments that adhere or stick to the surface of the heat transfer film. This, in turn, gives sharp colors with a long lifespan."
+        "answer": "The inks used in DTF printing are sublimation, pigment, and solvent-based. These types of ink have pigments that adhere or stick to the surface of the heat transfer film. This, in turn, gives sharp colors with a long lifespan.",
+        "visible": true
       },
       {
         "question": "What is the Minimum Order Quantity (MOQ) for buying Ultranex Pet Release Film?",
-        "answer": "MOQ starts from 5000 sheets for regular buying, but to make trial production, we will supply the required quantity."
+        "answer": "MOQ starts from 5000 sheets for regular buying, but to make trial production, we will supply the required quantity.",
+        "visible": true
       },
       {
         "question": "Are there any specific care instructions for DTF prints?",
-        "answer": "Yes. Make sure to gently wash your fabric inside out in cold water. Do not use fabric softeners and bleach on them. Air dry the garment to prevent heat damage. Also, try not to iron directly over the design. You can cover it with a cloth and use low heat."
+        "answer": "Yes. Make sure to gently wash your fabric inside out in cold water. Do not use fabric softeners and bleach on them. Air dry the garment to prevent heat damage. Also, try not to iron directly over the design. You can cover it with a cloth and use low heat.",
+        "visible": true
       },
       {
         "question": "Do ink transfers hold up the wash?",
-        "answer": "Yes. DTF transfers can hold up between 60 to 100 washes. The designs show no signs of cracking, fading, or peeling as the transfers are rigorously tested. Moreover, cold water enhances the longevity of the designs."
+        "answer": "Yes. DTF transfers can hold up between 60 to 100 washes. The designs show no signs of cracking, fading, or peeling as the transfers are rigorously tested. Moreover, cold water enhances the longevity of the designs.",
+        "visible": true
       }
-    ]
+    ],
+    "visible": true
   },
   "newsletter": {
     "headline": "Stay Updated!",
@@ -357,6 +388,7 @@
       "Unsubscribe anytime"
     ],
     "successMessage": "\ud83c\udf89 Successfully subscribed! Check your inbox for confirmation.",
-    "errorMessage": "Please enter a valid email address."
+    "errorMessage": "Please enter a valid email address.",
+    "visible": true
   }
 }

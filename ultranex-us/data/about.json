@@ -2,7 +2,8 @@
   "hero": {
     "eyebrow": "About Ultranex",
     "headline": "Your Global Partner for DTF and Heat Transfer Release Films",
-    "tagline": "Ultranex epitomizes our steadfast dedication to quality, adherence to SOPs, and a culture of continuous innovation."
+    "tagline": "Ultranex epitomizes our steadfast dedication to quality, adherence to SOPs, and a culture of continuous innovation.",
+    "visible": true
   },
   "story": {
     "title": "Our Journey",
@@ -26,7 +27,8 @@
         "label": "Global Reach",
         "desc": "Supplying premium DTF films across the USA and 15+ countries"
       }
-    ]
+    ],
+    "visible": true
   },
   "stats": [
     {
@@ -61,7 +63,8 @@
         "title": "Customer First",
         "description": "Dedicated support and reliable service across America, backed by our team in Anaheim, CA."
       }
-    ]
+    ],
+    "visible": true
   },
   "infrastructure": {
     "title": "Infrastructure",
@@ -69,14 +72,16 @@
     "certifications": [
       "ISO 9001:2015",
       "OEKO-TEX Standard 100"
-    ]
+    ],
+    "visible": true
   },
   "dtfAdvantages": {
     "title": "DTF Advantages",
     "image": {
       "src": "https://annoying-user.github.io/web-static-files/ultranex-us/images/about/dtf-advantages.jpg",
       "alt": "DTF Advantages"
-    }
+    },
+    "visible": true
   },
   "facility": {
     "title": "Our Facility",
@@ -102,7 +107,8 @@
         "alt": "Production Equipment",
         "label": "Production Equipment"
       }
-    ]
+    ],
+    "visible": true
   },
   "team": {
     "title": "Meet the Team",
@@ -111,13 +117,16 @@
       {
         "name": "Bhavesh Shah",
         "role": "Managing Director",
-        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/team/bhavesh-shah.jpg"
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/team/bhavesh-shah.jpg",
+        "visible": true
       },
       {
         "name": "Pratima Shah",
         "role": "Chief Executive Officer",
-        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/team/pratima-shah.jpg"
+        "image": "https://annoying-user.github.io/web-static-files/ultranex-us/images/team/pratima-shah.jpg",
+        "visible": true
       }
-    ]
+    ],
+    "visible": true
   }
 }

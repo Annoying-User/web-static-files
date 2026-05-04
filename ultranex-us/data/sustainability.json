@@ -6,33 +6,37 @@
   "hero": {
     "eyebrow": "Our Commitment",
     "headline": "Sustainability",
-    "tagline": "With an unwavering commitment to innovation, we have delved deep into the realms of research and development to build a cleaner, more responsible manufacturing process."
+    "tagline": "With an unwavering commitment to innovation, we have delved deep into the realms of research and development to build a cleaner, more responsible manufacturing process.",
+    "visible": true
   },
   "pillars": [
     {
       "id": "water-coatings",
       "icon": "droplets",
       "title": "Water Based Coatings",
-      "body": "We developed eco-friendly water-based coating technology as a responsible alternative to traditional solvent-based coatings. Conventional coatings release harmful chemicals that pose a significant threat to the delicate ecological balance. Our water-based approach prioritizes environmental responsibility while delivering the same high performance. Choosing Ultranex means not only choosing quality and efficiency but also contributing to a cleaner and healthier planet."
+      "body": "We developed eco-friendly water-based coating technology as a responsible alternative to traditional solvent-based coatings. Conventional coatings release harmful chemicals that pose a significant threat to the delicate ecological balance. Our water-based approach prioritizes environmental responsibility while delivering the same high performance. Choosing Ultranex means not only choosing quality and efficiency but also contributing to a cleaner and healthier planet.",
+      "visible": true
     },
     {
       "id": "no-rework",
       "icon": "shield-check",
       "title": "No Rework Policy",
-      "body": "Ultranex holds ISO 9001:2015 certification and implements rigorous quality control at every stage. Our no-rework policy reflects our confidence in product quality — we get it right the first time.",
+      "body": "Ultranex holds ISO 9001:2015 certification and implements rigorous quality control at every stage. Our no-rework policy reflects our confidence in product quality \u2014 we get it right the first time.",
       "points": [
         "Incoming material checks at every production run",
         "Comprehensive quality assurance plans and SOPs",
         "In-house laboratory testing of all production lots",
         "Assessment of printing processes and wash stability",
-        "Full traceability — every product traced back to its raw material origins via unique lot numbers"
-      ]
+        "Full traceability \u2014 every product traced back to its raw material origins via unique lot numbers"
+      ],
+      "visible": true
     },
     {
       "id": "people",
       "icon": "users",
       "title": "Better Facilities for People",
-      "body": "Our team members are at the heart of everything we do. We maintain world-class facilities that provide safe, comfortable, and inspiring work environments. High hygiene and health and safety standards are non-negotiable. Founder Bhavesh Shah believes that precision and excellence begin with a team that feels cared for — we are a family that fosters the growth of every individual."
+      "body": "Our team members are at the heart of everything we do. We maintain world-class facilities that provide safe, comfortable, and inspiring work environments. High hygiene and health and safety standards are non-negotiable. Founder Bhavesh Shah believes that precision and excellence begin with a team that feels cared for \u2014 we are a family that fosters the growth of every individual.",
+      "visible": true
     },
     {
       "id": "energy",
@@ -43,17 +47,34 @@
         "Continuous quality improvements and right-first-time policies to reduce waste",
         "Active monitoring of utilities consumption for ongoing optimisation",
         "Regeneration of waste and scrap material as production input"
-      ]
+      ],
+      "visible": true
     }
   ],
   "certifications": [
-    { "title": "ISO 9001:2015", "desc": "Quality management system certified" },
-    { "title": "OEKO-TEX Standard 100", "desc": "Free from harmful substances and chemicals" },
-    { "title": "Water Bourne Coatings", "desc": "Formaldehyde-free, eco-friendly manufacturing" }
+    {
+      "title": "ISO 9001:2015",
+      "desc": "Quality management system certified",
+      "visible": true
+    },
+    {
+      "title": "OEKO-TEX Standard 100",
+      "desc": "Free from harmful substances and chemicals",
+      "visible": true
+    },
+    {
+      "title": "Water Bourne Coatings",
+      "desc": "Formaldehyde-free, eco-friendly manufacturing",
+      "visible": true
+    }
   ],
   "cta": {
     "headline": "Built for Quality. Built for the Planet.",
     "body": "Learn more about our products or get in touch with our team in Anaheim, CA.",
-    "button": { "label": "Contact Us", "href": "/contact" }
+    "button": {
+      "label": "Contact Us",
+      "href": "/contact"
+    },
+    "visible": true
   }
 }

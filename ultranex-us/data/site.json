@@ -12,11 +12,41 @@
   "social": {
     "facebook": "https://facebook.com",
     "twitter": "https://twitter.com",
-    "linkedin": "https://linkedin.com"
+    "linkedin": "https://linkedin.com",
+    "facebook_visible": true,
+    "twitter_visible": false,
+    "linkedin_visible": true
   },
   "footer": {
     "tagline": "Premium DTF film solutions for professional textile printing with vibrant colors and exceptional durability.",
     "copyright": "Ultranex DTF. All rights reserved.",
-    "madeIn": "Made in India with ♥"
-  }
+    "madeIn": "Made in India with \u2665"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/",
+      "visible": true
+    },
+    {
+      "label": "DTF Film Roll",
+      "href": "/dtf-film-roll",
+      "visible": true
+    },
+    {
+      "label": "About",
+      "href": "/about",
+      "visible": true
+    },
+    {
+      "label": "Sustainability",
+      "href": "/sustainability",
+      "visible": true
+    },
+    {
+      "label": "Contact",
+      "href": "/contact",
+      "visible": true
+    }
+  ]
 }

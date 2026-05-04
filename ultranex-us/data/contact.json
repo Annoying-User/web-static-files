@@ -3,12 +3,22 @@
   "headline": "Contact Us",
   "subheadline": "Have questions about our DTF films? We're here to help you with all your printing needs",
   "businessHours": [
-    { "days": "Monday – Friday", "hours": "9:00 AM – 6:00 PM" },
-    { "days": "Saturday", "hours": "10:00 AM – 4:00 PM" },
-    { "days": "Sunday", "hours": "Closed" }
+    {
+      "days": "Monday \u2013 Friday",
+      "hours": "9:00 AM \u2013 6:00 PM"
+    },
+    {
+      "days": "Saturday",
+      "hours": "10:00 AM \u2013 4:00 PM"
+    },
+    {
+      "days": "Sunday",
+      "hours": "Closed"
+    }
   ],
   "quickSupport": {
     "title": "Need Quick Support?",
-    "body": "Our team is ready to assist you with any questions about our DTF films and heat transfer solutions."
+    "body": "Our team is ready to assist you with any questions about our DTF films and heat transfer solutions.",
+    "visible": true
   }
 }
