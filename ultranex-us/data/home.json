@@ -160,49 +160,28 @@
     "visible": true
   },
   "techSpecs": {
+    "visible": true,
     "badge": "Technical Excellence",
     "headline": "Technical Specifications",
-    "subheadline": "Precision-engineered DTF films with industry-leading specifications",
+    "subheadline": "Compare our DTF film grades \u2014 Premium, Prime1, and Ultra \u2014 engineered for different production needs",
     "footer": "All specifications are tested and certified to ensure consistent quality",
-    "specs": [
-      {
-        "label": "Appearance",
-        "value": "Translucent Film"
-      },
-      {
-        "label": "Base \u2013 PET Film",
-        "value": "75\u00b5"
-      },
-      {
-        "label": "Side 1 Antistatic Coated",
-        "value": "10\u2079 \u03a9 \u2013 10\u00b9\u2070 \u03a9"
-      },
-      {
-        "label": "Side 2 Matte release coated",
-        "value": "Even & Smooth Finish"
-      },
-      {
-        "label": "Matte release coating thickness",
-        "value": "11\u00b5 (+ / \u2013 2\u00b5)"
-      },
-      {
-        "label": "Matte value of release coating",
-        "value": "10 GU (+ / \u2013 1GU)"
-      },
-      {
-        "label": "Standard Size",
-        "value": "A3, A4, Rolls: 600mm\u00d7100Mtrs, 300\u00d7100Mtrs"
-      },
-      {
-        "label": "Print Hold Out",
-        "value": "Medium to High"
-      },
-      {
-        "label": "Release force",
-        "value": "Medium to Low (Hot & Cold Peel)"
-      }
+    "columns": [
+      { "key": "premium", "label": "Premium", "grade": "F86SM2" },
+      { "key": "prime1",  "label": "Prime1",  "grade": "F90SM2" },
+      { "key": "ultra",   "label": "Ultra",   "grade": "F86SM1" }
     ],
-    "visible": true
+    "specs": [
+      { "label": "Appearance",                     "premium": "Translucent Film",                   "prime1": "Translucent Film",                   "ultra": "Translucent Film" },
+      { "label": "Base \u2013 PET Film",            "premium": "75\u00b5",                           "prime1": "75\u00b5",                           "ultra": "75\u00b5" },
+      { "label": "Printing Side Coating",          "premium": "2 Layers Even & Smooth",             "prime1": "2 Layers Even & Smooth",             "ultra": "2 Layers Even & Smooth" },
+      { "label": "Matte Type",                     "premium": "Double Matte",                       "prime1": "Double Matte",                       "ultra": "Single Matte" },
+      { "label": "Back Side Coating",              "premium": "Structured Matte Antistatic",        "prime1": "Coated Matte Antistatic",            "ultra": "Gloss Antistatic" },
+      { "label": "Antistatic Range",               "premium": "10\u2079 \u2013 10\u00b9\u2070 \u03a9", "prime1": "10\u2079 \u2013 10\u00b9\u2070 \u03a9", "ultra": "10\u2079 \u2013 10\u00b9\u2070 \u03a9" },
+      { "label": "Coating Thickness (All Layers)", "premium": "11\u00b5 (\u00b12\u00b5)",           "prime1": "15\u00b5 (\u00b12\u00b5)",           "ultra": "11\u00b5 (\u00b12\u00b5)" },
+      { "label": "Matte Value of Release Coating", "premium": "10 GU (\u00b11 GU)",                 "prime1": "10 GU (\u00b11 GU)",                 "ultra": "10 GU (\u00b11 GU)" },
+      { "label": "Print Hold Out",                 "premium": "Medium to High",                     "prime1": "Medium to High",                     "ultra": "Medium to High" },
+      { "label": "Release Force",                  "premium": "Medium to Low (Hot/Warm/Cold Peel)", "prime1": "Medium to Low (Hot/Warm/Cold Peel)", "ultra": "Medium to Low (Hot/Warm/Cold Peel)" }
+    ]
   },
   "composition": {
     "badge": "Material Quality",
