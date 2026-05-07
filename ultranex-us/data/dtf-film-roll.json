@@ -51,8 +51,7 @@
         "href": "#products",
         "primary": false
       }
-    ],
-    "visible": true
+    ]
   },
   "products": [
     {
@@ -61,7 +60,9 @@
       "name": "DTF Ultra",
       "tagline": "Single Matte · Instant Hot Peel · Oil Free",
       "badge": "Single Matte",
-      "description": "Single matte DTF film with 1-side printable matte coating and back-side gloss antistatic coating. Ideal for standard DTF workflows requiring a satin-matte finish with no second press required.",
+      "classification": "Heat Transfer Release Film — DTF Inkjet Printing",
+      "supply": "Supplied in rolls and sheets",
+      "description": "Grade F86SM1/DTF Ultra is a Single Matte DTF Film with 1-side DTF printable matte coating and back-side gloss antistatic coating. Ideal for standard DTF workflows requiring a satin-matte finish with no second press required.",
       "highlights": [
         "Instant Hot Peel — no second press needed",
         "Oil Free transfers",
@@ -71,13 +72,44 @@
         "No powder clinging"
       ],
       "specs": {
+        "appearance": "Translucent Film",
         "base": "PET Film 75 µ",
         "coating": "2 Layers — Even & Smooth Finish",
         "backside": "Gloss & Antistatic 10⁹ Ω – 10¹⁰ Ω",
         "coatingThickness": "11 µ (± 2 µ)",
         "matteValue": "10 GU (± 1 GU)",
-        "peelType": "Hot, Warm & Cold Peel",
-        "printHoldOut": "Medium to High"
+        "peelType": "Medium to Low (Hot, Warm & Cold Peel)",
+        "printHoldOut": "Medium to High (depends on ink and adhesive)"
+      },
+      "specialBenefits": [
+        "Quick Ink Drying",
+        "Trouble Free Powder Application",
+        "Heat Stable",
+        "Vibrant Colors",
+        "Oil Free",
+        "Hot, Warm & Cold Peel",
+        "Matte Finish to Transfers",
+        "Soft Hand Feel"
+      ],
+      "application": {
+        "powderShaker": {
+          "tempC": "100°C to 140°C",
+          "tempF": "212°F to 284°F",
+          "time": "7 to 4 minutes"
+        },
+        "transfer": {
+          "tempC": "125°C to 180°C",
+          "tempF": "257°F to 356°F",
+          "time": "15 to 4 seconds",
+          "pressure": "2 to 4 bars pneumatic pressure"
+        },
+        "hotPeel": [
+          "Ensure press machine settings are correct",
+          "Temperature and pressure must be equal at all corners",
+          "Run orientation trials with waste cloths",
+          "Pneumatic machines recommended for best performance"
+        ],
+        "note": "Transfer parameters vary depending on fabric type, machine type, and process conditions."
       },
       "sizes": {
         "rolls": [
@@ -88,8 +120,7 @@
           "300 mm × 100 m"
         ],
         "sheets": "Available on customer requirement"
-      },
-      "visible": true
+      }
     },
     {
       "id": "prime1",
@@ -97,7 +128,9 @@
       "name": "DTF Prime1",
       "tagline": "Double Matte · Extra Traction · No Roll Sticking",
       "badge": "Double Matte",
-      "description": "Double matte DTF film with 1-side printable matte coating and back-side matte antistatic coating for extra traction, no powder sticking, and printed roll sticking resistance. Thicker coating for demanding production runs.",
+      "classification": "Heat Transfer Release Film — DTF Inkjet Printing",
+      "supply": "Supplied in rolls and sheets",
+      "description": "Grade F90SM2/DTF Prime1 is a Double Matte DTF Film with 1-side DTF printable matte coating and back-side coated matte antistatic coating — engineered for extra traction, no powder sticking, and printed roll sticking resistance. Thicker coating for demanding production runs.",
       "highlights": [
         "Double matte — front printable + back matte antistatic",
         "Extra traction prevents roll sticking",
@@ -107,13 +140,44 @@
         "High ink absorption"
       ],
       "specs": {
+        "appearance": "Translucent Film",
         "base": "PET Film 75 µ",
         "coating": "2 Layers — Even & Smooth Finish",
         "backside": "Matte & Antistatic 10⁹ Ω – 10¹⁰ Ω",
         "coatingThickness": "15 µ (± 2 µ)",
         "matteValue": "10 GU (± 1 GU)",
-        "peelType": "Hot, Warm & Cold Peel",
-        "printHoldOut": "Medium to High"
+        "peelType": "Medium to Low (Hot, Warm & Cold Peel)",
+        "printHoldOut": "Medium to High (depends on ink and adhesive)"
+      },
+      "specialBenefits": [
+        "Quick Ink Drying",
+        "Trouble Free Powder Application",
+        "Heat Stable",
+        "Vibrant Colors",
+        "Oil Free",
+        "Hot, Warm & Cold Peel",
+        "Matte Finish to Transfers",
+        "Soft Hand Feel"
+      ],
+      "application": {
+        "powderShaker": {
+          "tempC": "100°C to 140°C",
+          "tempF": "212°F to 284°F",
+          "time": "7 to 4 minutes"
+        },
+        "transfer": {
+          "tempC": "125°C to 180°C",
+          "tempF": "257°F to 356°F",
+          "time": "15 to 4 seconds",
+          "pressure": "2 to 4 bars pneumatic pressure"
+        },
+        "hotPeel": [
+          "Ensure press machine settings are correct",
+          "Temperature and pressure must be equal at all corners",
+          "Run orientation trials with waste cloths",
+          "Pneumatic machines recommended for best performance"
+        ],
+        "note": "Transfer parameters vary depending on fabric type, machine type, and process conditions."
       },
       "sizes": {
         "rolls": [
@@ -124,8 +188,7 @@
           "300 mm × 100 m"
         ],
         "sheets": "Available on customer requirement"
-      },
-      "visible": true
+      }
     },
     {
       "id": "premium",
@@ -133,7 +196,9 @@
       "name": "DTF Premium",
       "tagline": "Double Matte · Structured Back · Maximum Stability",
       "badge": "Premium",
-      "description": "Double matte DTF film with 1-side printable matte coating and back-side structured matte antistatic coating. The structured back provides maximum traction and roll stability for automated and high-volume production lines.",
+      "classification": "Heat Transfer Release Film — DTF Inkjet Printing",
+      "supply": "Supplied in rolls and sheets",
+      "description": "Grade F86SM2/DTF Premium is a Double Matte DTF Film with 1-side DTF printable matte coating and back-side structured matte antistatic coating. The structured back delivers extra traction and printed roll sticking resistance for automated and high-volume production lines.",
       "highlights": [
         "Structured matte antistatic back coating",
         "Maximum roll stability for automated lines",
@@ -143,13 +208,44 @@
         "Soft feel hand feel on transfers"
       ],
       "specs": {
+        "appearance": "Translucent Film",
         "base": "PET Film 75 µ",
         "coating": "2 Layers — Even & Smooth Finish",
         "backside": "Structured Matte & Antistatic 10⁹ Ω – 10¹⁰ Ω",
         "coatingThickness": "11 µ (± 2 µ)",
         "matteValue": "10 GU (± 1 GU)",
-        "peelType": "Hot, Warm & Cold Peel",
-        "printHoldOut": "Medium to High"
+        "peelType": "Medium to Low (Hot, Warm & Cold Peel)",
+        "printHoldOut": "Medium to High (depends on ink and adhesive)"
+      },
+      "specialBenefits": [
+        "Quick Ink Drying",
+        "Trouble Free Powder Application",
+        "Heat Stable",
+        "Vibrant Colors",
+        "Oil Free",
+        "Hot, Warm & Cold Peel",
+        "Matte Finish to Transfers",
+        "Soft Hand Feel"
+      ],
+      "application": {
+        "powderShaker": {
+          "tempC": "100°C to 140°C",
+          "tempF": "212°F to 284°F",
+          "time": "7 to 4 minutes"
+        },
+        "transfer": {
+          "tempC": "125°C to 180°C",
+          "tempF": "257°F to 356°F",
+          "time": "15 to 4 seconds",
+          "pressure": "2 to 4 bars pneumatic pressure"
+        },
+        "hotPeel": [
+          "Ensure press machine settings are correct",
+          "Temperature and pressure must be equal at all corners",
+          "Run orientation trials with waste cloths",
+          "Pneumatic machines recommended for best performance"
+        ],
+        "note": "Transfer parameters vary depending on fabric type, machine type, and process conditions."
       },
       "sizes": {
         "rolls": [
@@ -160,8 +256,7 @@
           "300 mm × 100 m"
         ],
         "sheets": "Available on customer requirement"
-      },
-      "visible": true
+      }
     }
   ],
   "fabricTransformation": {
@@ -195,8 +290,7 @@
         "icon": "durable",
         "text": "Long-lasting durability — made to withstand multiple washes"
       }
-    ],
-    "visible": true
+    ]
   },
   "hybridPeel": {
     "headline": "Ultranex DTF Uses Hybrid Peel Technology",
@@ -208,8 +302,7 @@
       "Excellent ink absorption",
       "Quick release with minimal residue",
       "Available in both DTF film rolls and DTF transfer sheets"
-    ],
-    "visible": true
+    ]
   },
   "commonBenefits": {
     "headline": "Common Benefits Across All Grades",
@@ -222,8 +315,7 @@
       "Hot, Warm & Cold peel",
       "Matte finish to transfers",
       "Soft feel hand feel"
-    ],
-    "visible": true
+    ]
   },
   "defects": {
     "headline": "Common Defects in DTF Films",
@@ -231,35 +323,29 @@
       {
         "issue": "Color Registration Issues",
         "cause": "Silicone-heavy films or low gripper pressure",
-        "solution": "Use Ultranex film (low silicone) & increase machine grip",
-        "visible": true
+        "solution": "Use Ultranex film (low silicone) & increase machine grip"
       },
       {
         "issue": "Ink Flow Problems",
         "cause": "Poor film coating or ink mismatch",
-        "solution": "Maintain heater temp (50–60°C) & use compatible Ultranex film",
-        "visible": true
+        "solution": "Maintain heater temp (50–60°C) & use compatible Ultranex film"
       },
       {
         "issue": "Adhesive Powder Sticking on Blank Areas",
         "cause": "High humidity, poor powder flow, or static",
-        "solution": "Keep RH < 52%, use Ultranex PU powder & static eliminator",
-        "visible": true
+        "solution": "Keep RH < 52%, use Ultranex PU powder & static eliminator"
       },
       {
         "issue": "Oil Dots / Sweating on Prints",
         "cause": "Inks with too much glycerin/glycol",
-        "solution": "Use low-humectant ink & set film surface temp to 160–180°C",
-        "visible": true
+        "solution": "Use low-humectant ink & set film surface temp to 160–180°C"
       },
       {
         "issue": "Non-transfer of Prints",
         "cause": "Low-quality film or poor heat/pressure settings",
-        "solution": "Use Ultranex dual-layer film, 140–160°C temp, 2–6 bar pressure",
-        "visible": true
+        "solution": "Use Ultranex dual-layer film, 140–160°C temp, 2–6 bar pressure"
       }
-    ],
-    "visible": true
+    ]
   },
   "whyChoose": {
     "headline": "Why Choose Our DTF Film Rolls",
@@ -285,8 +371,7 @@
         "title": "Custom Sizes on Request",
         "desc": "Non-standard widths and lengths available. Contact us to discuss your exact requirements."
       }
-    ],
-    "visible": true
+    ]
   },
   "printingGuidelines": {
     "headline": "Guidelines for Printing & Transfer",
@@ -299,8 +384,7 @@
       "Transfer settings: 125°C to 180°C (257°F to 356°F) for 4–15 seconds at 2–4 bar pneumatic pressure. Parameters vary by fabric and machine.",
       "For instant hot peel: ensure equal temperature and pressure at all corners. One orientation trial with waste cloth is recommended. Pneumatic machines are preferred."
     ],
-    "note": "\"Oil Free\" / Moisture Free DTF transfers require sufficient drying. Ultranex DTF Film is formulated to maximise moisture evaporation from the coating after printing.",
-    "visible": true
+    "note": "\"Oil Free\" / Moisture Free DTF transfers require sufficient drying. Ultranex DTF Film is formulated to maximise moisture evaporation from the coating after printing."
   },
   "cta": {
     "headline": "Ready to Upgrade Your Prints?",
@@ -308,8 +392,7 @@
     "button": {
       "label": "Get in Touch",
       "href": "/contact"
-    },
-    "visible": true
+    }
   },
   "faq": {
     "headline": "DTF Film Roll: FAQs",
@@ -317,61 +400,49 @@
     "items": [
       {
         "question": "What is the difference between Ultra, Prime1, and Premium?",
-        "answer": "Ultra (F86SM1) is a single matte film with a gloss antistatic back — best for standard workflows. Prime1 (F90SM2) is double matte with a thicker 15 µ coating and matte antistatic back for extra traction. Premium (F86SM2) is double matte with a structured matte antistatic back for maximum roll stability in automated production lines.",
-        "visible": true
+        "answer": "Ultra (F86SM1) is a single matte film with a gloss antistatic back — best for standard workflows. Prime1 (F90SM2) is double matte with a thicker 15 µ coating and matte antistatic back for extra traction. Premium (F86SM2) is double matte with a structured matte antistatic back for maximum roll stability in automated production lines."
       },
       {
         "question": "What is DTF film, and how does it differ from traditional transfer methods?",
-        "answer": "DTF film (Direct-to-Film) is a specialized transfer film used in textile printing. Unlike traditional screen printing or sublimation, DTF film allows vibrant, high-resolution prints on cotton, polyester, and blended fabrics without needing pre-treatment. It offers better durability, color vibrancy, and cost efficiency for both small and bulk production.",
-        "visible": true
+        "answer": "DTF film (Direct-to-Film) is a specialized transfer film used in textile printing. Unlike traditional screen printing or sublimation, DTF film allows vibrant, high-resolution prints on cotton, polyester, and blended fabrics without needing pre-treatment. It offers better durability, color vibrancy, and cost efficiency for both small and bulk production."
       },
       {
         "question": "What type of fabrics can be printed using DTF?",
-        "answer": "DTF works well on cotton and polyester (unlike sublimation, DTF does not require polyester fabrics), blends and spandex (great for sportswear and activewear), and denim, canvas, and leather. DTF printing eliminates the need for separate transfer papers for different materials, making it a cost-effective solution for apparel printing businesses.",
-        "visible": true
+        "answer": "DTF works well on cotton and polyester (unlike sublimation, DTF does not require polyester fabrics), blends and spandex (great for sportswear and activewear), and denim, canvas, and leather. DTF printing eliminates the need for separate transfer papers for different materials, making it a cost-effective solution for apparel printing businesses."
       },
       {
         "question": "How long do DTF prints last compared to other transfer methods?",
-        "answer": "DTF prints can withstand 50+ wash cycles without fading or cracking, provided they are properly cured and heat-pressed. Compared to vinyl transfers, which can peel over time, and sublimation, which fades on cotton, DTF transfers offer long-lasting vibrancy.",
-        "visible": true
+        "answer": "DTF prints can withstand 50+ wash cycles without fading or cracking, provided they are properly cured and heat-pressed. Compared to vinyl transfers, which can peel over time, and sublimation, which fades on cotton, DTF transfers offer long-lasting vibrancy."
       },
       {
         "question": "What equipment do I need to start a DTF printing business?",
-        "answer": "You need a DTF printer compatible with DTF film and pigment-based inks, DTF film (sheets or rolls), DTF powder adhesive to bond ink to fabric, a heat press machine to transfer the design, and a curing oven or heat press to cure the adhesive powder before transfer.",
-        "visible": true
+        "answer": "You need a DTF printer compatible with DTF film and pigment-based inks, DTF film (sheets or rolls), DTF powder adhesive to bond ink to fabric, a heat press machine to transfer the design, and a curing oven or heat press to cure the adhesive powder before transfer."
       },
       {
         "question": "What sizes are available?",
-        "answer": "All grades are available in 1200 mm, 900 mm, 800 mm, 600 mm, and 300 mm widths in 100 m rolls. Sheets are available on customer request. Custom widths and lengths are also available — contact us with your requirements.",
-        "visible": true
+        "answer": "All grades are available in 1200 mm, 900 mm, 800 mm, 600 mm, and 300 mm widths in 100 m rolls. Sheets are available on customer request. Custom widths and lengths are also available — contact us with your requirements."
       },
       {
         "question": "Is it better to use DTF rolls or DTF sheets for bulk printing?",
-        "answer": "For small-scale printing, DTF sheets are convenient. However, DTF rolls are better for bulk production as they enable continuous printing, reducing material waste and improving workflow efficiency. Businesses requiring high-volume output benefit more from DTF rolls.",
-        "visible": true
+        "answer": "For small-scale printing, DTF sheets are convenient. However, DTF rolls are better for bulk production as they enable continuous printing, reducing material waste and improving workflow efficiency. Businesses requiring high-volume output benefit more from DTF rolls."
       },
       {
         "question": "What are the best practices to extend the life of DTF prints?",
-        "answer": "Wash garments inside out to prevent direct abrasion. Use mild detergents and avoid bleach. Air dry or use low heat settings. Iron inside out to avoid applying direct heat to the print. Following these care instructions keeps DTF prints vibrant over extended use.",
-        "visible": true
+        "answer": "Wash garments inside out to prevent direct abrasion. Use mild detergents and avoid bleach. Air dry or use low heat settings. Iron inside out to avoid applying direct heat to the print. Following these care instructions keeps DTF prints vibrant over extended use."
       },
       {
         "question": "Can DTF printing be done on dark-colored fabrics?",
-        "answer": "Yes! One of the biggest advantages of DTF film technology is its ability to print on both light and dark fabrics. Unlike sublimation, which requires white or light-colored fabrics, DTF transfers work on black, navy, and dark-colored materials without requiring a white base layer.",
-        "visible": true
+        "answer": "Yes! One of the biggest advantages of DTF film technology is its ability to print on both light and dark fabrics. Unlike sublimation, which requires white or light-colored fabrics, DTF transfers work on black, navy, and dark-colored materials without requiring a white base layer."
       },
       {
         "question": "Is DTF printing cost-effective for beginners?",
-        "answer": "Absolutely. DTF printing requires no pre-treatment (unlike DTG), has lower ink consumption compared to DTG and sublimation, and works on all fabric types. Small businesses can start with DTF sheets before upgrading to DTF rolls for bulk production.",
-        "visible": true
+        "answer": "Absolutely. DTF printing requires no pre-treatment (unlike DTG), has lower ink consumption compared to DTG and sublimation, and works on all fabric types. Small businesses can start with DTF sheets before upgrading to DTF rolls for bulk production."
       },
       {
         "question": "How do I get a quote or place a bulk order?",
-        "answer": "Contact our team directly via the enquiry form or call us at (714) 812-7191. We'll provide specifications, samples, and a quote tailored to your volume and requirements.",
-        "visible": true
+        "answer": "Contact our team directly via the enquiry form or call us at (714) 812-7191. We'll provide specifications, samples, and a quote tailored to your volume and requirements."
       }
-    ],
-    "visible": true
+    ]
   },
   "datasheets": {
     "visible": true,
