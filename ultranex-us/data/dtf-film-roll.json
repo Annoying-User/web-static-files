@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "DTF Film Rolls & Sheets | Ultranex DTF USA",
-    "description": "Ultranex DTF Film \u2013 Ultra, Prime1 & Premium grades. Water bourne coating technology, instant hot peel, oil free, ISO 9001:2015 certified. Rolls & sheets for USA."
+    "description": "Ultranex DTF Film – Ultra, Prime1 & Premium grades. Water bourne coating technology, instant hot peel, oil free, ISO 9001:2015 certified. Rolls & sheets for USA."
   },
   "hero": {
     "badge": "ISO 9001:2015 Certified",
     "headline": "DTF Film Rolls & Sheets",
     "subheadline": "One-Stop Shop for Ultranex DTF Film Roll and Sheet",
-    "body": "At Vama Prints & Technology, we take pride in producing Ultranex \u2013 a premium heat transfer film crafted for superior DTF textile printing. Available in three grades \u2014 Ultra, Prime1, and Premium \u2014 each formulated for specific production needs. Instant hot peel, oil-free transfers, vibrant colour output, and trouble-free powder application in every roll. We supply reliably across the USA to meet the demands of both small businesses and large-scale production.",
+    "body": "At Vama Prints & Technology, we take pride in producing Ultranex – a premium heat transfer film crafted for superior DTF textile printing. Available in three grades — Ultra, Prime1, and Premium — each formulated for specific production needs. Instant hot peel, oil-free transfers, vibrant colour output, and trouble-free powder application in every roll. We supply reliably across the USA to meet the demands of both small businesses and large-scale production.",
     "features": [
       {
         "icon": "print",
@@ -59,23 +59,23 @@
       "id": "ultra",
       "grade": "F86SM1/DTF Ultra",
       "name": "DTF Ultra",
-      "tagline": "Single Matte \u00b7 Instant Hot Peel \u00b7 Oil Free",
+      "tagline": "Single Matte · Instant Hot Peel · Oil Free",
       "badge": "Single Matte",
       "description": "Single matte DTF film with 1-side printable matte coating and back-side gloss antistatic coating. Ideal for standard DTF workflows requiring a satin-matte finish with no second press required.",
       "highlights": [
-        "Instant Hot Peel \u2014 no second press needed",
+        "Instant Hot Peel — no second press needed",
         "Oil Free transfers",
         "Single matte front, gloss antistatic back",
-        "Coating thickness: 11 \u00b5 (\u00b1 2 \u00b5)",
-        "Matte value: 10 GU (\u00b1 1 GU)",
+        "Coating thickness: 11 µ (± 2 µ)",
+        "Matte value: 10 GU (± 1 GU)",
         "No powder clinging"
       ],
       "specs": {
-        "base": "PET Film 75 \u00b5",
-        "coating": "2 Layers \u2014 Even & Smooth Finish",
-        "backside": "Gloss & Antistatic 10\u2079 \u03a9 \u2013 10\u00b9\u2070 \u03a9",
-        "coatingThickness": "11 \u00b5 (\u00b1 2 \u00b5)",
-        "matteValue": "10 GU (\u00b1 1 GU)",
+        "base": "PET Film 75 µ",
+        "coating": "2 Layers — Even & Smooth Finish",
+        "backside": "Gloss & Antistatic 10⁹ Ω – 10¹⁰ Ω",
+        "coatingThickness": "11 µ (± 2 µ)",
+        "matteValue": "10 GU (± 1 GU)",
         "peelType": "Hot, Warm & Cold Peel",
         "printHoldOut": "Medium to High"
       },
@@ -85,7 +85,7 @@
           "900 mm",
           "800 mm",
           "600 mm",
-          "300 mm \u00d7 100 m"
+          "300 mm × 100 m"
         ],
         "sheets": "Available on customer requirement"
       },
@@ -95,23 +95,23 @@
       "id": "prime1",
       "grade": "F90SM2/DTF Prime1",
       "name": "DTF Prime1",
-      "tagline": "Double Matte \u00b7 Extra Traction \u00b7 No Roll Sticking",
+      "tagline": "Double Matte · Extra Traction · No Roll Sticking",
       "badge": "Double Matte",
       "description": "Double matte DTF film with 1-side printable matte coating and back-side matte antistatic coating for extra traction, no powder sticking, and printed roll sticking resistance. Thicker coating for demanding production runs.",
       "highlights": [
-        "Double matte \u2014 front printable + back matte antistatic",
+        "Double matte — front printable + back matte antistatic",
         "Extra traction prevents roll sticking",
         "No powder sticking on back side",
-        "Coating thickness: 15 \u00b5 (\u00b1 2 \u00b5)",
-        "Matte value: 10 GU (\u00b1 1 GU)",
+        "Coating thickness: 15 µ (± 2 µ)",
+        "Matte value: 10 GU (± 1 GU)",
         "High ink absorption"
       ],
       "specs": {
-        "base": "PET Film 75 \u00b5",
-        "coating": "2 Layers \u2014 Even & Smooth Finish",
-        "backside": "Matte & Antistatic 10\u2079 \u03a9 \u2013 10\u00b9\u2070 \u03a9",
-        "coatingThickness": "15 \u00b5 (\u00b1 2 \u00b5)",
-        "matteValue": "10 GU (\u00b1 1 GU)",
+        "base": "PET Film 75 µ",
+        "coating": "2 Layers — Even & Smooth Finish",
+        "backside": "Matte & Antistatic 10⁹ Ω – 10¹⁰ Ω",
+        "coatingThickness": "15 µ (± 2 µ)",
+        "matteValue": "10 GU (± 1 GU)",
         "peelType": "Hot, Warm & Cold Peel",
         "printHoldOut": "Medium to High"
       },
@@ -121,7 +121,7 @@
           "900 mm",
           "800 mm",
           "600 mm",
-          "300 mm \u00d7 100 m"
+          "300 mm × 100 m"
         ],
         "sheets": "Available on customer requirement"
       },
@@ -131,23 +131,23 @@
       "id": "premium",
       "grade": "F86SM2/DTF Premium",
       "name": "DTF Premium",
-      "tagline": "Double Matte \u00b7 Structured Back \u00b7 Maximum Stability",
+      "tagline": "Double Matte · Structured Back · Maximum Stability",
       "badge": "Premium",
       "description": "Double matte DTF film with 1-side printable matte coating and back-side structured matte antistatic coating. The structured back provides maximum traction and roll stability for automated and high-volume production lines.",
       "highlights": [
         "Structured matte antistatic back coating",
         "Maximum roll stability for automated lines",
         "No powder sticking, no roll sticking",
-        "Coating thickness: 11 \u00b5 (\u00b1 2 \u00b5)",
-        "Matte value: 10 GU (\u00b1 1 GU)",
+        "Coating thickness: 11 µ (± 2 µ)",
+        "Matte value: 10 GU (± 1 GU)",
         "Soft feel hand feel on transfers"
       ],
       "specs": {
-        "base": "PET Film 75 \u00b5",
-        "coating": "2 Layers \u2014 Even & Smooth Finish",
-        "backside": "Structured Matte & Antistatic 10\u2079 \u03a9 \u2013 10\u00b9\u2070 \u03a9",
-        "coatingThickness": "11 \u00b5 (\u00b1 2 \u00b5)",
-        "matteValue": "10 GU (\u00b1 1 GU)",
+        "base": "PET Film 75 µ",
+        "coating": "2 Layers — Even & Smooth Finish",
+        "backside": "Structured Matte & Antistatic 10⁹ Ω – 10¹⁰ Ω",
+        "coatingThickness": "11 µ (± 2 µ)",
+        "matteValue": "10 GU (± 1 GU)",
         "peelType": "Hot, Warm & Cold Peel",
         "printHoldOut": "Medium to High"
       },
@@ -157,7 +157,7 @@
           "900 mm",
           "800 mm",
           "600 mm",
-          "300 mm \u00d7 100 m"
+          "300 mm × 100 m"
         ],
         "sheets": "Available on customer requirement"
       },
@@ -193,14 +193,14 @@
       },
       {
         "icon": "durable",
-        "text": "Long-lasting durability \u2014 made to withstand multiple washes"
+        "text": "Long-lasting durability — made to withstand multiple washes"
       }
     ],
     "visible": true
   },
   "hybridPeel": {
     "headline": "Ultranex DTF Uses Hybrid Peel Technology",
-    "body": "Our DTF film is engineered with hybrid peel compatibility, meaning you can peel hot or wait for it to cool \u2014 whichever suits your workflow and fabric best.",
+    "body": "Our DTF film is engineered with hybrid peel compatibility, meaning you can peel hot or wait for it to cool — whichever suits your workflow and fabric best.",
     "featuresLabel": "Built-In Features of Ultranex DTF Film",
     "features": [
       "Anti-static coating for smooth results",
@@ -237,7 +237,7 @@
       {
         "issue": "Ink Flow Problems",
         "cause": "Poor film coating or ink mismatch",
-        "solution": "Maintain heater temp (50\u201360\u00b0C) & use compatible Ultranex film",
+        "solution": "Maintain heater temp (50–60°C) & use compatible Ultranex film",
         "visible": true
       },
       {
@@ -249,13 +249,13 @@
       {
         "issue": "Oil Dots / Sweating on Prints",
         "cause": "Inks with too much glycerin/glycol",
-        "solution": "Use low-humectant ink & set film surface temp to 160\u2013180\u00b0C",
+        "solution": "Use low-humectant ink & set film surface temp to 160–180°C",
         "visible": true
       },
       {
         "issue": "Non-transfer of Prints",
         "cause": "Low-quality film or poor heat/pressure settings",
-        "solution": "Use Ultranex dual-layer film, 140\u2013160\u00b0C temp, 2\u20136 bar pressure",
+        "solution": "Use Ultranex dual-layer film, 140–160°C temp, 2–6 bar pressure",
         "visible": true
       }
     ],
@@ -294,9 +294,9 @@
       "Wear gloves while handling rolls or sheets to avoid surface damage. Repack rolls in moisture-proof bags after use.",
       "Keep the rubber gripper clean and maintain low unwinding tension on the printing machine for better registration.",
       "Preheat the printed film if required before powder application.",
-      "Powder shaker drying: set temperature 100\u00b0C to 140\u00b0C (212\u00b0F to 284\u00b0F) for 4\u20137 minutes. Preliminary temperature testing is recommended.",
+      "Powder shaker drying: set temperature 100°C to 140°C (212°F to 284°F) for 4–7 minutes. Preliminary temperature testing is recommended.",
       "Cool the film before winding to avoid sticking.",
-      "Transfer settings: 125\u00b0C to 180\u00b0C (257\u00b0F to 356\u00b0F) for 4\u201315 seconds at 2\u20134 bar pneumatic pressure. Parameters vary by fabric and machine.",
+      "Transfer settings: 125°C to 180°C (257°F to 356°F) for 4–15 seconds at 2–4 bar pneumatic pressure. Parameters vary by fabric and machine.",
       "For instant hot peel: ensure equal temperature and pressure at all corners. One orientation trial with waste cloth is recommended. Pneumatic machines are preferred."
     ],
     "note": "\"Oil Free\" / Moisture Free DTF transfers require sufficient drying. Ultranex DTF Film is formulated to maximise moisture evaporation from the coating after printing.",
@@ -317,7 +317,7 @@
     "items": [
       {
         "question": "What is the difference between Ultra, Prime1, and Premium?",
-        "answer": "Ultra (F86SM1) is a single matte film with a gloss antistatic back \u2014 best for standard workflows. Prime1 (F90SM2) is double matte with a thicker 15 \u00b5 coating and matte antistatic back for extra traction. Premium (F86SM2) is double matte with a structured matte antistatic back for maximum roll stability in automated production lines.",
+        "answer": "Ultra (F86SM1) is a single matte film with a gloss antistatic back — best for standard workflows. Prime1 (F90SM2) is double matte with a thicker 15 µ coating and matte antistatic back for extra traction. Premium (F86SM2) is double matte with a structured matte antistatic back for maximum roll stability in automated production lines.",
         "visible": true
       },
       {
@@ -342,7 +342,7 @@
       },
       {
         "question": "What sizes are available?",
-        "answer": "All grades are available in 1200 mm, 900 mm, 800 mm, 600 mm, and 300 mm widths in 100 m rolls. Sheets are available on customer request. Custom widths and lengths are also available \u2014 contact us with your requirements.",
+        "answer": "All grades are available in 1200 mm, 900 mm, 800 mm, 600 mm, and 300 mm widths in 100 m rolls. Sheets are available on customer request. Custom widths and lengths are also available — contact us with your requirements.",
         "visible": true
       },
       {
@@ -372,5 +372,789 @@
       }
     ],
     "visible": true
+  },
+  "datasheets": {
+    "visible": true,
+    "headline": "Product Data Sheets",
+    "subheadline": "Full per-grade specifications, benefits, and handling guidelines",
+    "items": [
+      {
+        "id": "ultra",
+        "name": "Ultranex F86SM1/DTF Ultra",
+        "tagline": "Water Bourne Transfer Release Film Coating Technology",
+        "intro": {
+          "headline": "INTRODUCING F86SM1/DTF Ultra",
+          "bullets": [
+            "Instant \"Hot\" Peel",
+            "\"Oil Free\"*",
+            "No Powder Clinging",
+            "High Ink Absorption",
+            "Single Matte",
+            "No Second Press"
+          ]
+        },
+        "tagBlock": {
+          "title": "CONSISTENT & HIGH QUALITY",
+          "company": "Prints & Technologies Pvt. Ltd.",
+          "slogan": "Think, Perform, Complete Successfully"
+        },
+        "datasheetMeta": {
+          "title": "PRODUCT DATA SHEET",
+          "subtitle": "Transfer Release Film",
+          "rev": "DTF, Revs: 01/26",
+          "origin": "MADE IN INDIA"
+        },
+        "grade": {
+          "headline": "Grade: F86SM1/DTF Ultra",
+          "summary": "Heat Transfer Release Film - DTF Inkjet Printing.",
+          "description": "Grade F86SM1/DTF Ultra is a Single Matte DTF Film with:",
+          "bullets": [
+            "1 side DTF printable matte coating",
+            "Back side gloss antistatic coating"
+          ],
+          "supply": ""
+        },
+        "typicalProperties": {
+          "headline": "Typical Properties",
+          "rows": [
+            {
+              "no": 1,
+              "property": "Appearance",
+              "specification": "Translucent Film"
+            },
+            {
+              "no": 2,
+              "property": "Base - PET Film",
+              "specification": "75 µ"
+            },
+            {
+              "no": 3,
+              "property": "Printing Side Coating",
+              "specification": "2 Layers Even & Smooth Finish"
+            },
+            {
+              "no": 4,
+              "property": "Back Side Gloss & Antistatic",
+              "specification": "10⁹ Ω - 10¹⁰ Ω"
+            },
+            {
+              "no": 5,
+              "property": "Coating Thickness (All Layers)",
+              "specification": "11 µ (+ / - 2 µ)"
+            },
+            {
+              "no": 6,
+              "property": "Matte Value of Release Coating",
+              "specification": "10 GU (+ / - 1 GU)"
+            },
+            {
+              "no": 7,
+              "property": "Standard Size",
+              "specification": "Sheets: On customer requirement\nRolls: 1200mm, 900mm, 800mm, 600mm, 300 X 100 Mtrs"
+            },
+            {
+              "no": 8,
+              "property": "Print Hold Out",
+              "specification": "Medium to High Depends on Ink and Adhesive"
+            },
+            {
+              "no": 9,
+              "property": "Release Force",
+              "specification": "Medium to Low (Hot, Warm & Cold Peel)"
+            }
+          ]
+        },
+        "specialBenefits": {
+          "headline": "Special Benefits",
+          "bullets": [
+            "Quick Ink Drying",
+            "Trouble Free Powder Application",
+            "Heat Stable",
+            "Vibrant Colors",
+            "Oil Free",
+            "Hot* Warm & Cold Peel",
+            "Matte Finish to Transfers",
+            "Soft Feel Hand Feel",
+            "Many More"
+          ]
+        },
+        "guidelines": {
+          "headline": "Guidelines for Printing & Transfer",
+          "items": [
+            {
+              "text": "It is recommended to wear gloves while handling rolls or sheets to avoid damage on the film surface."
+            },
+            {
+              "text": "Rolls should be packed in moisture-proof bags after use."
+            },
+            {
+              "text": "Always keep the rubber gripper clean and keep unwinding tension low on printing machines for better registration."
+            },
+            {
+              "text": "Preheat the printed film if required before powder application."
+            },
+            {
+              "text": "In drying process we recommend powder shaker set temperature:",
+              "subitems": [
+                "100°C to 140°C",
+                "(212°F to 284°F)",
+                "For 7 minutes to 4 minutes"
+              ]
+            },
+            {
+              "text": "Some preliminary testing on various temperatures is required."
+            },
+            {
+              "text": "It is necessary to cool the film before winding to avoid sticking while winding."
+            },
+            {
+              "text": "Transfers should be applied:",
+              "subitems": [
+                "125°C to 180°C",
+                "(257°F to 356°F)",
+                "15 to 4 seconds",
+                "2 to 4 bars pneumatic pressure"
+              ]
+            }
+          ],
+          "note": {
+            "label": "Note:",
+            "intro": "Transfer parameters vary depending on:",
+            "bullets": [
+              "Fabric type",
+              "Machine type",
+              "Process conditions"
+            ]
+          }
+        },
+        "importantNote": {
+          "headline": "Important Note",
+          "paragraphs": [
+            "\"Oil Free\"* or Moisture Free DTF Transfers need sufficient drying.",
+            "In Ultranex DTF Film we have tried to manage maximum possible moisture evaporation trapped in the coating after printing."
+          ]
+        },
+        "instantHotPeel": {
+          "headline": "Instant Hot Peel Instructions",
+          "intro": "For instant Hot Peel:",
+          "bullets": [
+            "Ensure press machine settings are correct.",
+            "Temperature and pressure should be equal at all corners.",
+            "Orientation trials may be required using waste cloths.",
+            "Pneumatic machines are recommended for best performance."
+          ]
+        },
+        "disclaimer": {
+          "headline": "Disclaimer",
+          "blocks": [
+            {
+              "type": "para",
+              "text": "Changes can be made on above specifications for improvements."
+            },
+            {
+              "type": "para",
+              "text": "Above specification data are our test values and not guaranteed limits."
+            },
+            {
+              "type": "para",
+              "text": "Results may vary depending on:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "User process",
+                "Process controls",
+                "Ink type",
+                "Hotmelt adhesive",
+                "Allied materials",
+                "Machine conditions"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "The film manufacturer has no control over allied materials used."
+            },
+            {
+              "type": "para",
+              "text": "The manufacturer cannot accept liability for:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Product rejection",
+                "Process variations",
+                "User-specific production issues"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "No warranties of any kind, either express or implied, including:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Merchantability",
+                "Fitness for a particular purpose"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "Users should test film functionality with trials before mass production."
+            },
+            {
+              "type": "para",
+              "text": "Suggested:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "In-house testing",
+                "Sample production testing before bulk production"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "The company reserves the right to make changes according to technological progress and future developments."
+            }
+          ]
+        },
+        "manufacturer": {
+          "headline": "Manufacturer Details",
+          "company": "Prints & Technologies Pvt. Ltd.",
+          "website": "www.ultranex.co.in",
+          "email": "sales@vamaprints.com",
+          "address": [
+            "DII 41-44, Bhumi World Industrial Park,",
+            "Mumbai Nasik Highway, Pimplas,",
+            "Dist: Thane, Maharashtra 421302, INDIA"
+          ]
+        },
+        "footerSlogan": "Think, Perform, Complete Successfully",
+        "pdf": {
+          "filename": "DTF Ultra Product Data Sheet.pdf",
+          "label": "Download Data Sheet"
+        }
+      },
+      {
+        "id": "prime1",
+        "name": "Ultranex Prime1 DTF Film",
+        "tagline": "Water Bourne Transfer Release Film Coating Technology",
+        "intro": {
+          "headline": "Introducing Prime1 DTF Film",
+          "bullets": [
+            "Instant \"Hot\" Peel",
+            "\"Oil Free\"*",
+            "No Powder Clinging",
+            "High Ink Absorption",
+            "Double Matte",
+            "No Second Press"
+          ]
+        },
+        "tagBlock": {
+          "title": "CONSISTENT & HIGH QUALITY",
+          "company": "Prints & Technologies Pvt. Ltd.",
+          "slogan": "Think, Perform, Complete Successfully"
+        },
+        "datasheetMeta": {
+          "title": "PRODUCT DATA SHEET",
+          "subtitle": "Transfer Release Film",
+          "rev": "DTF, Rev5: 01/26",
+          "origin": "MADE IN INDIA"
+        },
+        "grade": {
+          "headline": "Grade: F90SM2/DTF Prime1",
+          "summary": "Heat Transfer Release Film - DTF Inkjet Printing.",
+          "description": "Grade F90SM2/DTF Prime1 is a Double Matte DTF Film with:",
+          "bullets": [
+            "1 side DTF printable matte coating",
+            "Back side coated matte antistatic coating",
+            "Extra traction",
+            "No powder sticking",
+            "Printed roll sticking resistance"
+          ],
+          "supply": "Supplied in rolls and sheets."
+        },
+        "typicalProperties": {
+          "headline": "Typical Properties",
+          "rows": [
+            {
+              "no": 1,
+              "property": "Appearance",
+              "specification": "Translucent Film"
+            },
+            {
+              "no": 2,
+              "property": "Base - PET Film",
+              "specification": "75 µ"
+            },
+            {
+              "no": 3,
+              "property": "Printing Side Coating",
+              "specification": "2 Layers Even & Smooth Finish"
+            },
+            {
+              "no": 4,
+              "property": "Back Side Matte & Antistatic",
+              "specification": "10⁹ Ω - 10¹⁰ Ω"
+            },
+            {
+              "no": 5,
+              "property": "Coating Thickness (All Layers)",
+              "specification": "15 µ (+/- 2 µ)"
+            },
+            {
+              "no": 6,
+              "property": "Matte Value of Release Coating",
+              "specification": "10 GU (+/- 1 GU)"
+            },
+            {
+              "no": 7,
+              "property": "Standard Size",
+              "specification": "Sheets: On customer requirement\nRolls: 1200mm, 900mm, 800mm, 600mm, 300 X 100 Mtrs"
+            },
+            {
+              "no": 8,
+              "property": "Print Hold Out",
+              "specification": "Medium to High Depends on Ink and Adhesive"
+            },
+            {
+              "no": 9,
+              "property": "Release Force",
+              "specification": "Medium to Low (Hot, Warm & Cold Peel)"
+            }
+          ]
+        },
+        "specialBenefits": {
+          "headline": "Special Benefits",
+          "bullets": [
+            "Quick Ink Drying",
+            "Trouble Free Powder Application",
+            "Heat Stable",
+            "Vibrant Colors",
+            "Oil Free",
+            "Hot* Warm & Cold Peel",
+            "Matte Finish to Transfers",
+            "Soft Feel Hand Feel",
+            "Many More"
+          ]
+        },
+        "guidelines": {
+          "headline": "Guidelines for Printing & Transfer",
+          "items": [
+            {
+              "text": "It is recommended to wear gloves while handling rolls or sheets to avoid damage on the film surface."
+            },
+            {
+              "text": "Rolls should be packed in moisture-proof bags after use."
+            },
+            {
+              "text": "Always keep the rubber gripper clean and keep unwinding tension low on printing machines for better registration."
+            },
+            {
+              "text": "Preheat the printed film if required before powder application."
+            },
+            {
+              "text": "In drying process we recommend powder shaker set temperature:",
+              "subitems": [
+                "100°C to 140°C",
+                "(212°F to 284°F)",
+                "For 7 minutes to 4 minutes"
+              ]
+            },
+            {
+              "text": "Some preliminary testing on various temperatures is required."
+            },
+            {
+              "text": "It is necessary to cool the film before winding to avoid sticking while winding."
+            },
+            {
+              "text": "Transfers should be applied:",
+              "subitems": [
+                "125°C to 180°C",
+                "(257°F to 356°F)",
+                "15 to 4 seconds",
+                "2 to 4 bars pneumatic pressure"
+              ]
+            }
+          ],
+          "note": {
+            "label": "Note:",
+            "intro": "Transfer parameters vary depending on:",
+            "bullets": [
+              "Fabric type",
+              "Machine type",
+              "Process conditions"
+            ]
+          }
+        },
+        "importantNote": {
+          "headline": "Important Note",
+          "paragraphs": [
+            "\"Oil Free\"* or Moisture Free DTF Transfers need sufficient drying.",
+            "In Ultranex DTF Film we have tried to manage maximum possible moisture evaporation trapped in the coating after printing."
+          ]
+        },
+        "instantHotPeel": {
+          "headline": "Instant Hot Peel Instructions",
+          "intro": "For instant Hot Peel:",
+          "bullets": [
+            "Ensure press machine settings are correct.",
+            "Temperature and pressure should be equal at all corners.",
+            "Orientation trials may be required using waste cloths.",
+            "Pneumatic machines are recommended for best performance."
+          ]
+        },
+        "disclaimer": {
+          "headline": "Disclaimer",
+          "blocks": [
+            {
+              "type": "para",
+              "text": "Changes can be made on above specifications for improvements."
+            },
+            {
+              "type": "para",
+              "text": "Above specification data are our test values and not guaranteed limits."
+            },
+            {
+              "type": "para",
+              "text": "Results may vary depending on:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "User process",
+                "Process controls",
+                "Ink type",
+                "Hotmelt adhesive",
+                "Allied materials",
+                "Machine conditions"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "The film manufacturer has no control over allied materials used."
+            },
+            {
+              "type": "para",
+              "text": "The manufacturer cannot accept liability for:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Product rejection",
+                "Process variations",
+                "User-specific production issues"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "No warranties of any kind, either express or implied, including:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Merchantability",
+                "Fitness for a particular purpose"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "Users should test film functionality with trials before mass production."
+            },
+            {
+              "type": "para",
+              "text": "Suggested:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "In-house testing",
+                "Sample production testing before bulk production"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "The company reserves the right to make changes according to technological progress and future developments."
+            }
+          ]
+        },
+        "manufacturer": {
+          "headline": "Manufacturer Details",
+          "company": "Prints & Technologies Pvt. Ltd.",
+          "website": "www.ultranex.co.in",
+          "email": "sales@vamaprints.com",
+          "address": [
+            "DI 141-44, Bhumi World Industrial Park,",
+            "Mumbai Nasik Highway, Pimplas,",
+            "Dist: Thane, Maharashtra 421302, INDIA"
+          ]
+        },
+        "footerSlogan": "Think, Perform, Complete Successfully",
+        "pdf": {
+          "filename": "DTF Prime1 Product Data Sheet.pdf",
+          "label": "Download Data Sheet"
+        }
+      },
+      {
+        "id": "premium",
+        "name": "#1 Ultranex Premium DTF Film",
+        "tagline": "Water Bourne Transfer Release Film Coating Technology",
+        "intro": {
+          "headline": "Introducing Premium DTF Film",
+          "bullets": [
+            "Instant \"Hot\" Peel",
+            "\"Oil Free\"*",
+            "No Powder Clinging",
+            "High Ink Absorption",
+            "Double Matte",
+            "No Second Press"
+          ]
+        },
+        "tagBlock": {
+          "title": "CONSISTENT & HIGH QUALITY",
+          "company": "Prints & Technologies Pvt. Ltd.",
+          "slogan": "Think, Perform, Complete Successfully"
+        },
+        "datasheetMeta": {
+          "title": "PRODUCT DATA SHEET",
+          "subtitle": "Transfer Release Film",
+          "rev": "DTF, Rev5: 01/26",
+          "origin": "MADE IN INDIA"
+        },
+        "grade": {
+          "headline": "Grade: F86SM2/DTF Premium",
+          "summary": "Heat Transfer Release Film - DTF Inkjet Printing.",
+          "description": "Grade F86SM2/DTF Premium is a Double Matte DTF Film with:",
+          "bullets": [
+            "1 side DTF printable matte coating",
+            "Back side structured matte antistatic coating",
+            "Extra traction",
+            "No powder sticking",
+            "Printed roll sticking resistance"
+          ],
+          "supply": "Supplied in rolls and sheets."
+        },
+        "typicalProperties": {
+          "headline": "Typical Properties",
+          "rows": [
+            {
+              "no": 1,
+              "property": "Appearance",
+              "specification": "Translucent Film"
+            },
+            {
+              "no": 2,
+              "property": "Base - PET Film",
+              "specification": "75 µ"
+            },
+            {
+              "no": 3,
+              "property": "Printing Side Coating",
+              "specification": "2 Layers Even & Smooth Finish"
+            },
+            {
+              "no": 4,
+              "property": "Back Side Matte & Antistatic",
+              "specification": "10⁹ Ω - 10¹⁰ Ω"
+            },
+            {
+              "no": 5,
+              "property": "Coating Thickness (All Layers)",
+              "specification": "11 µ (+ / - 2 µ)"
+            },
+            {
+              "no": 6,
+              "property": "Matte Value of Release Coating",
+              "specification": "10 GU (+/- 1 GU)"
+            },
+            {
+              "no": 7,
+              "property": "Standard Size",
+              "specification": "Sheets: On customer requirement\nRolls: 1200mm, 900mm, 800mm, 600mm, 300 X 100 Mtrs"
+            },
+            {
+              "no": 8,
+              "property": "Print Hold Out",
+              "specification": "Medium to High Depends on Ink and Adhesive"
+            },
+            {
+              "no": 9,
+              "property": "Release Force",
+              "specification": "Medium to Low (Hot, Warm & Cold Peel)"
+            }
+          ]
+        },
+        "specialBenefits": {
+          "headline": "Special Benefits",
+          "bullets": [
+            "Quick Ink Drying",
+            "Trouble Free Powder Application",
+            "Heat Stable",
+            "Vibrant Colors",
+            "Oil Free",
+            "Hot* Warm & Cold Peel",
+            "Matte Finish to Transfers",
+            "Soft Feel Hand Feel",
+            "Many More"
+          ]
+        },
+        "guidelines": {
+          "headline": "Guidelines for Printing & Transfer",
+          "items": [
+            {
+              "text": "It is recommended to wear gloves while handling rolls or sheets to avoid damage on the film surface."
+            },
+            {
+              "text": "Rolls should be packed in moisture-proof bags after use."
+            },
+            {
+              "text": "Always keep the rubber gripper clean and keep unwinding tension low on printing machines for better registration."
+            },
+            {
+              "text": "Preheat the printed film if required before powder application."
+            },
+            {
+              "text": "In drying process we recommend powder shaker set temperature:",
+              "subitems": [
+                "100°C to 140°C",
+                "(212°F to 284°F)",
+                "For 7 minutes to 4 minutes"
+              ]
+            },
+            {
+              "text": "Some preliminary testing on various temperatures is required."
+            },
+            {
+              "text": "It is necessary to cool the film before winding to avoid sticking while winding."
+            },
+            {
+              "text": "Transfers should be applied:",
+              "subitems": [
+                "125°C to 180°C",
+                "(257°F to 356°F)",
+                "15 to 4 seconds",
+                "2 to 4 bars pneumatic pressure"
+              ]
+            }
+          ],
+          "note": {
+            "label": "Note:",
+            "intro": "Transfer parameters vary depending on:",
+            "bullets": [
+              "Fabric type",
+              "Machine type",
+              "Process conditions"
+            ]
+          }
+        },
+        "importantNote": {
+          "headline": "Important Note",
+          "paragraphs": [
+            "\"Oil Free\"* or Moisture Free DTF Transfers need sufficient drying.",
+            "In Ultranex DTF Film we have tried to manage maximum possible moisture evaporation trapped in the coating after printing."
+          ]
+        },
+        "instantHotPeel": {
+          "headline": "Instant Hot Peel Instructions",
+          "intro": "For instant Hot Peel:",
+          "bullets": [
+            "Ensure press machine settings are correct.",
+            "Temperature and pressure should be equal at all corners.",
+            "Orientation trials may be required using waste cloths.",
+            "Pneumatic machines are recommended for best performance."
+          ]
+        },
+        "disclaimer": {
+          "headline": "Disclaimer",
+          "blocks": [
+            {
+              "type": "para",
+              "text": "Changes can be made on above specifications for improvements."
+            },
+            {
+              "type": "para",
+              "text": "Above specification data are our test values and not guaranteed limits."
+            },
+            {
+              "type": "para",
+              "text": "Results may vary depending on:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "User process",
+                "Process controls",
+                "Ink type",
+                "Hotmelt adhesive",
+                "Allied materials",
+                "Machine conditions"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "The film manufacturer has no control over allied materials used."
+            },
+            {
+              "type": "para",
+              "text": "The manufacturer cannot accept liability for:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Product rejection",
+                "Process variations",
+                "User-specific production issues"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "No warranties of any kind, either express or implied, including:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Merchantability",
+                "Fitness for a particular purpose"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "Users should test film functionality with trials before mass production."
+            },
+            {
+              "type": "para",
+              "text": "Suggested:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "In-house testing",
+                "Sample production testing before bulk production"
+              ]
+            },
+            {
+              "type": "para",
+              "text": "The company reserves the right to make changes according to technological progress and future developments."
+            }
+          ]
+        },
+        "manufacturer": {
+          "headline": "Manufacturer Details",
+          "company": "Prints & Technologies Pvt. Ltd.",
+          "website": "www.ultranex.co.in",
+          "email": "sales@vamaprints.com",
+          "address": [
+            "DI 141-44, Bhumi World Industrial Park,",
+            "Mumbai Nasik Highway, Pimplas,",
+            "Dist: Thane, Maharashtra 421302, INDIA"
+          ]
+        },
+        "footerSlogan": "Think, Perform, Complete Successfully",
+        "pdf": {
+          "filename": "DTF Premium Product Data Sheet .pdf",
+          "label": "Download Data Sheet"
+        }
+      }
+    ]
   }
 }
