@@ -166,65 +166,21 @@
     "subheadline": "Compare our DTF film grades \u2014 Premium, Prime1, and Ultra \u2014 engineered for different production needs",
     "footer": "All specifications are tested and certified to ensure consistent quality",
     "columns": [
-      { "key": "ultra", "label": "Ultra", "grade": "F86SM1" },
       { "key": "premium", "label": "Premium", "grade": "F86SM2" },
-      { "key": "prime1", "label": "Prime1", "grade": "F90SM2" }
+      { "key": "prime1",  "label": "Prime1",  "grade": "F90SM2" },
+      { "key": "ultra",   "label": "Ultra",   "grade": "F86SM1" }
     ],
     "specs": [
-      {
-        "label": "Appearance",
-        "ultra": "Translucent Film",
-        "premium": "Translucent Film",
-        "prime1": "Translucent Film"
-      },
-      {
-        "label": "Base \u2013 PET Film",
-        "ultra": "75\u00b5",
-        "premium": "75\u00b5",
-        "prime1": "75\u00b5"
-      },
-      {
-        "label": "Printing Side Coating",
-        "ultra": "2 Layers Even & Smooth",
-        "premium": "2 Layers Even & Smooth",
-        "prime1": "2 Layers Even & Smooth"
-      },
-      {
-        "label": "Back Side matte and Antistatic",
-        "ultra": "10\u2079 \u2013 10\u00b9\u2070 \u03a9",
-        "premium": "10\u2079 \u2013 10\u00b9\u2070 \u03a9",
-        "prime1": "10\u2079 \u2013 10\u00b9\u2070 \u03a9"
-      },
-      {
-        "label": "Coating Thickness (All Layers)",
-        "ultra": "11\u00b5 (\u00b12\u00b5)",
-        "premium": "11\u00b5 (\u00b12\u00b5)",
-        "prime1": "15\u00b5 (\u00b12\u00b5)"
-      },
-      {
-        "label": "Matte Value of Release Coating",
-        "ultra": "10 GU (\u00b11 GU)",
-        "premium": "10 GU (\u00b11 GU)",
-        "prime1": "10 GU (\u00b11 GU)"
-      },
-      {
-        "label": "Standard Size",
-        "ultra": "Rolls\u2013 1200mm/900mm/800mm/600mm/300\u00D7100Mtrs",
-        "premium": "Rolls\u2013 1200mm/900mm/800mm/600mm/300\u00D7100Mtrs",
-        "prime1": "Rolls\u2013 1200mm/900mm/800mm/600mm/300\u00D7100Mtrs"
-      },
-      {
-        "label": "Print Hold Out",
-        "ultra": "Medium to High Depends on Ink and Adhesive",
-        "premium": "Medium to High Depends on Ink and Adhesive",
-        "prime1": "Medium to High Depends on Ink and Adhesive"
-      },
-      {
-        "label": "Release Force",
-        "ultra": "Medium to Low (Hot/Warm/Cold Peel)",
-        "premium": "Medium to Low (Hot/Warm/Cold Peel)",
-        "prime1": "Medium to Low (Hot/Warm/Cold Peel)"
-      }
+      { "label": "Appearance",                     "premium": "Translucent Film",                   "prime1": "Translucent Film",                   "ultra": "Translucent Film" },
+      { "label": "Base \u2013 PET Film",            "premium": "75\u00b5",                           "prime1": "75\u00b5",                           "ultra": "75\u00b5" },
+      { "label": "Printing Side Coating",          "premium": "2 Layers Even & Smooth",             "prime1": "2 Layers Even & Smooth",             "ultra": "2 Layers Even & Smooth" },
+      { "label": "Matte Type",                     "premium": "Double Matte",                       "prime1": "Double Matte",                       "ultra": "Single Matte" },
+      { "label": "Back Side Coating",              "premium": "Structured Matte Antistatic",        "prime1": "Coated Matte Antistatic",            "ultra": "Gloss Antistatic" },
+      { "label": "Antistatic Range",               "premium": "10\u2079 \u2013 10\u00b9\u2070 \u03a9", "prime1": "10\u2079 \u2013 10\u00b9\u2070 \u03a9", "ultra": "10\u2079 \u2013 10\u00b9\u2070 \u03a9" },
+      { "label": "Coating Thickness (All Layers)", "premium": "11\u00b5 (\u00b12\u00b5)",           "prime1": "15\u00b5 (\u00b12\u00b5)",           "ultra": "11\u00b5 (\u00b12\u00b5)" },
+      { "label": "Matte Value of Release Coating", "premium": "10 GU (\u00b11 GU)",                 "prime1": "10 GU (\u00b11 GU)",                 "ultra": "10 GU (\u00b11 GU)" },
+      { "label": "Print Hold Out",                 "premium": "Medium to High",                     "prime1": "Medium to High",                     "ultra": "Medium to High" },
+      { "label": "Release Force",                  "premium": "Medium to Low (Hot/Warm/Cold Peel)", "prime1": "Medium to Low (Hot/Warm/Cold Peel)", "ultra": "Medium to Low (Hot/Warm/Cold Peel)" }
     ]
   },
   "composition": {
@@ -405,7 +361,11 @@
     "subscriberNote": "Join 1000+ subscribers who receive our weekly newsletter",
     "placeholder": "Enter your email address",
     "buttonLabel": "Subscribe Now",
-    "trust": ["No spam, ever", "Privacy protected", "Unsubscribe anytime"],
+    "trust": [
+      "No spam, ever",
+      "Privacy protected",
+      "Unsubscribe anytime"
+    ],
     "successMessage": "\ud83c\udf89 Successfully subscribed! Check your inbox for confirmation.",
     "errorMessage": "Please enter a valid email address.",
     "visible": true
