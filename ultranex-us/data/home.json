@@ -209,15 +209,15 @@
       },
       {
         "label": "Standard Size",
-        "ultra": "Rolls\u2013 1200mm/900mm/800mm/600mm/300\u00D7100Mtrs",
-        "premium": "Rolls\u2013 1200mm/900mm/800mm/600mm/300\u00D7100Mtrs",
-        "prime1": "Rolls\u2013 1200mm/900mm/800mm/600mm/300\u00D7100Mtrs"
+        "ultra": "Sheets \u2013 Custom Sizes\nRolls \u2013 1200/900/800/600mm/\n300\u00D7100M",
+        "premium": "Sheets \u2013 Custom Sizes\nRolls \u2013 1200/900/800/600mm/\n300\u00D7100M",
+        "prime1": "Sheets \u2013 Custom Sizes\nRolls \u2013 1200/900/800/600mm/\n300\u00D7100M"
       },
       {
         "label": "Print Hold Out",
-        "ultra": "Medium to High Depends on Ink and Adhesive",
-        "premium": "Medium to High Depends on Ink and Adhesive",
-        "prime1": "Medium to High Depends on Ink and Adhesive"
+        "ultra": "Medium \u2013 High Based on Ink/Adhesive",
+        "premium": "Medium \u2013 High Based on Ink/Adhesive",
+        "prime1": "Medium \u2013 High Based on Ink/Adhesive"
       },
       {
         "label": "Release Force",
