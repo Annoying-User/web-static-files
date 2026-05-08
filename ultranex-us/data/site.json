@@ -24,11 +24,6 @@
   },
   "nav": [
     {
-      "label": "Home",
-      "href": "/",
-      "visible": true
-    },
-    {
       "label": "DTF Film Roll",
       "href": "/dtf-film-roll",
       "visible": true
